@@ -28,7 +28,7 @@ In many areas of the city, crime runs rampant on the streets. Anarchist gangs pa
 
 ## Geography
 
-![[Zeal City District Map.png]]
+![[Zeal City District Map.jpg]]
 
 Zeal City consists of the Peninsula and a few islands.The northern border of the city is protected by a mountain range, and separates the city from a vast wasteland beyond filled with monstrosities. The city is approximately 2500 square miles (6500 square kilometers) in total land area.
 

@@ -1,3 +1,87 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ---------------------------------------------------------------
+// Zeal City terminal theme
+// Colors and fonts live in quartz.config.yaml (theme section).
+// This file adds the effects that the config can't express.
+// ---------------------------------------------------------------
+
+// Everything set in VT323 (title, headings, table headers, explorer folders).
+// VT323 has a small x-height and only one weight, so scale it up to match
+// the body font and stop browsers from faking bold.
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead,
+.folder-container div > a,
+.folder-container div > button {
+  font-size-adjust: 0.6;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+// Site title: VT323 at a size that stays on one line in the sidebar.
+.page-title {
+  font-size: 2rem;
+  font-size-adjust: none;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+// Phosphor glow on headings and the site title (dark mode only).
+:root[saved-theme="dark"] {
+  h1,
+  h2,
+  h3,
+  .page-title a {
+    text-shadow: 0 0 6px rgba(0, 255, 65, 0.45);
+  }
+}
+
+// Blinking terminal cursor after the site title.
+.page-title a::after {
+  content: "_";
+  margin-left: 0.1em;
+  animation: zeal-cursor-blink 1s steps(1) infinite;
+}
+
+@keyframes zeal-cursor-blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-title a::after {
+    animation: none;
+  }
+}
+
+// Text selection in terminal green.
+::selection {
+  background: var(--secondary);
+  color: var(--light);
+}
+
+// Tables (gear, weapons, cyberware costs) as terminal readouts.
+table {
+  border: 1px solid var(--lightgray);
+  font-size: 0.9rem;
+}
+
+th {
+  color: var(--secondary);
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid var(--secondary);
+}
+
+td {
+  border-top: 1px solid var(--lightgray);
+}
+
+tbody tr:hover {
+  background-color: var(--highlight);
+}

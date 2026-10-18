@@ -15,30 +15,35 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      title:
+        name: VT323
+        weights: [400]
+      header:
+        name: VT323
+        weights: [400]
+      body: IBM Plex Mono
+      code: Fira Code
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#eef5ee"
+        lightgray: "#d3e3d5"
+        gray: "#557560"
+        darkgray: "#1d3a24"
+        dark: "#0b2412"
+        secondary: "#0a7a2a"
+        tertiary: "#2f7300"
+        highlight: rgba(10, 122, 42, 0.10)
+        textHighlight: "#00ff4144"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#050805"
+        lightgray: "#14301c"
+        gray: "#4a8f5c"
+        darkgray: "#9fe6b0"
+        dark: "#d8ffe2"
+        secondary: "#00ff41"
+        tertiary: "#a6ff4d"
+        highlight: rgba(0, 255, 65, 0.08)
+        textHighlight: "#00ff4155"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -99,6 +104,14 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      # Keep these in sync with theme.typography above. The theme section
+      # loads the fonts from Google Fonts; this plugin applies them.
+      fontOrigin: local
+      title: '"VT323", monospace'
+      header: '"VT323", monospace'
+      body: '"IBM Plex Mono", monospace'
+      code: '"Fira Code", monospace'
   - source: "@quartz-themes/core"
     enabled: false
     options:

@@ -6,7 +6,7 @@ aliases:
 
 The ten territories are now the ten municipalities (or districts) of [[Zeal City]], each one with its own focus as part of the whole city.
 
-![[Zeal City District Map.png]]
+![[Zeal City District Map.jpg]]
 
 | District | City Function | Named After |
 | :---- | :---- | :---- |

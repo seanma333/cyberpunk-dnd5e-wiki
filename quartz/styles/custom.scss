@@ -85,3 +85,10 @@ td {
 tbody tr:hover {
   background-color: var(--highlight);
 }
+
+// Folder pages: every folder has its own index.md that links its pages, so
+// hide the automatic "N items under this folder" listing. Tag pages
+// (/tags/...) keep theirs, since the listing is their only content.
+body:not([data-slug^="tags/"]) .page-listing {
+  display: none;
+}

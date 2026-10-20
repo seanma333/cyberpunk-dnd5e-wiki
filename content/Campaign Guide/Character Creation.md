@@ -2,7 +2,7 @@
 title: "Character Creation"
 ---
 
-The rules for creating a character are the same as in base D&D 5th edition. You've had some limited experience at this point and developed some skills. Your characters begin with 900 XP, at level 3.
+The rules for creating a character are the same as in base D&D 5th edition.
 
 Create your character in Foundry VTT using its character builder. The custom content for this campaign, such as the Cyberpunk backgrounds, weapons, armor, and gear, is provided through my Foundry module.
 
@@ -36,7 +36,7 @@ Character options may come from the following official books:
 | *Mordenkainen Presents: Monsters of the Multiverse* | Yes | - |
 | *Dragonlance: Shadow of the Dragon Queen* | No | Lunar Sorcery only |
 
-Feats and spells may also come from any of these books, except *Dragonlance: Shadow of the Dragon Queen*. The Strixhaven Initiate and Strixhaven Mascot feats are not allowed, and the Gunner feat is replaced by [[Feats#Gunslinger|Gunslinger]].
+Feats and spells may also come from any of these books, except *Dragonlance: Shadow of the Dragon Queen*. The Strixhaven Initiate, Strixhaven Mascot, Sharpshooter, and Lucky feats are not allowed. Lucky is replaced by [[Rest and Recovery#Rest Points|Rest Points]], the damage portion of Sharpshooter is replaced by [[House Rules#Power Attacks|Power Attacks]], and the Gunner feat is replaced by [[Feats#Gunslinger|Gunslinger]].
 
 ## Race Selection
 

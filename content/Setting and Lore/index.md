@@ -21,5 +21,6 @@ It has been 150 years since the wars ended, and the remaining nations have rebui
   - [[Demographics]]
   - [[Government and Politics]]
   - [[Crime]]
+    - [[Setting and Lore/The Five Houses/index|The Five Houses of Rakdos]]
 - [[Setting and Lore/Megacorporations/index|Megacorporations]]
 - [[Religion]]

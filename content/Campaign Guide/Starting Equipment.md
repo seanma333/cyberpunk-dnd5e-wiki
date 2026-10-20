@@ -4,7 +4,7 @@ title: "Starting Equipment"
 
 Because of all the custom items and equipment for this campaign, we will be using a version of **gold buy** for your starting equipment, rather than class equipment. **When you create your character, *do not take your class's starting equipment or gold*.** Instead, everyone begins with **a smartphone,** **25,000 cp, a backpack**, as well as the equipment and cryptostick (with its cp) listed in your [[System Updates/Backgrounds/index|background]]. This represents your entire life savings up to this point. Before the campaign begins, you may spend this on any weapons, armor, tools, or equipment that you may need.
 
-Keep in mind that you will likely want to keep some money on you for daily living expenses.
+Keep in mind that you will likely want to keep some money on you for daily [[Rest and Recovery|living expenses]].
 
 ## Starting Cyberware
 

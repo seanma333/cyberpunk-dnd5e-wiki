@@ -26,5 +26,5 @@ For more details about the setting and history of Zeal City, refer to [[Setting 
 - [[Character Creation]]
 - [[Starting Equipment]] (including starting cyberware)
 - [[House Rules]]
-- [[Living Expenses]] (including resting)
+- [[Rest and Recovery]]: lifestyles, home bases, and resting
 - [[Currency]]

@@ -48,7 +48,7 @@ Some cyberware have multiple tiers, indicating more advanced technology for high
 | [[Muscle Reinforcement]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Neural Burst]] | -- | -- | -- | 5,000,000 cp |
 | [[Sensory Enhancement]] | 25,000 cp | 125,000 cp | 625,000 cp | 3,125,000 cp |
-| [[Smartgun Augment]] | 15,000 cp | 75,000 cp | 375,000 cp | 1,875,000 cp |
+| [[Smartgun Augment]] | 15,000 cp | -- | -- | -- |
 | [[Subdermal Plating]] | 40,000 cp | 200,000 cp | -- | -- |
 | [[Tailored Pheromones]] | -- | 150,000 cp | -- | -- |
 | [[Warp Cortex]] | -- | -- | 875,000 cp | -- |

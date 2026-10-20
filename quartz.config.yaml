@@ -25,25 +25,25 @@ configuration:
       code: Fira Code
     colors:
       lightMode:
-        light: "#eef5ee"
-        lightgray: "#d3e3d5"
-        gray: "#557560"
-        darkgray: "#1d3a24"
-        dark: "#0b2412"
-        secondary: "#0a7a2a"
-        tertiary: "#2f7300"
-        highlight: rgba(10, 122, 42, 0.10)
-        textHighlight: "#00ff4144"
+        light: "#eef3f8"
+        lightgray: "#d3dfeb"
+        gray: "#52708c"
+        darkgray: "#1b2f45"
+        dark: "#0b1a2c"
+        secondary: "#0067b3"
+        tertiary: "#00508c"
+        highlight: rgba(0, 103, 179, 0.10)
+        textHighlight: "#00c8ff44"
       darkMode:
-        light: "#050805"
-        lightgray: "#14301c"
-        gray: "#4a8f5c"
-        darkgray: "#9fe6b0"
-        dark: "#d8ffe2"
-        secondary: "#00ff41"
-        tertiary: "#a6ff4d"
-        highlight: rgba(0, 255, 65, 0.08)
-        textHighlight: "#00ff4155"
+        light: "#05070d"
+        lightgray: "#142033"
+        gray: "#4f86ad"
+        darkgray: "#a8d4f5"
+        dark: "#e0f4ff"
+        secondary: "#00c8ff"
+        tertiary: "#8ae9ff"
+        highlight: rgba(0, 200, 255, 0.08)
+        textHighlight: "#00c8ff55"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

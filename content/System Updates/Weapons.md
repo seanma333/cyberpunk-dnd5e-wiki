@@ -4,7 +4,68 @@ aliases:
   - "Firearms"
 ---
 
-**All existing weapons from the *Player's Handbook* still exist in this world, at the same prices as before.** However, guns are commonplace in cyberpunk settings, so in addition to classic D&D weapons, firearms are widely available.
+**All existing weapons from the *Player's Handbook* still exist in this world, at the same prices as before** (see [[#Standard Weapons]]). However, guns are commonplace in cyberpunk settings, so in addition to classic D&D weapons, [[#Firearms]] are widely available.
+
+## Standard Weapons
+
+The standard weapons from the *Player's Handbook*, with their prices converted to cryptopoints. Their rules and properties are unchanged.
+
+### Simple Melee Weapons
+
+| Weapon | Cost (cp) | Damage | Weight | Properties | Modifications |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Club | 10 | 1d4 bludgeoning | 2 lb. | Light | 1 |
+| Dagger | 200 | 1d4 piercing | 1 lb. | Finesse, light, thrown (range 20/60) | 1 |
+| Greatclub | 20 | 1d8 bludgeoning | 10 lb. | Two-handed | 2 |
+| Handaxe | 500 | 1d6 slashing | 2 lb. | Light, thrown (range 20/60) | 1 |
+| Javelin | 50 | 1d6 piercing | 2 lb. | Thrown (range 30/120) | 1 |
+| Light hammer | 200 | 1d4 bludgeoning | 2 lb. | Light, thrown (range 20/60) | 1 |
+| Mace | 500 | 1d6 bludgeoning | 4 lb. | - | 1 |
+| Quarterstaff | 20 | 1d6 bludgeoning | 4 lb. | Versatile (1d8) | 1 |
+| Sickle | 100 | 1d4 slashing | 2 lb. | Light | 1 |
+| Spear | 100 | 1d6 piercing | 3 lb. | Thrown (range 20/60), versatile (1d8) | 1 |
+
+### Simple Ranged Weapons
+
+| Weapon | Cost (cp) | Damage | Weight | Properties | Modifications |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Crossbow, light | 2,500 | 1d8 piercing | 5 lb. | Ammunition (range 80/320), loading, two-handed | 2 |
+| Dart | 5 | 1d4 piercing | 1/4 lb. | Finesse, thrown (range 20/60) | 1 |
+| Shortbow | 2,500 | 1d6 piercing | 2 lb. | Ammunition (range 80/320), two-handed | 2 |
+| Sling | 10 | 1d4 bludgeoning | - | Ammunition (range 30/120) | 1 |
+
+### Martial Melee Weapons
+
+| Weapon      | Cost (cp) | Damage          | Weight | Properties                            | Modifications |
+| :---------- | :-------- | :-------------- | :----- | :------------------------------------ | :------------ |
+| Battleaxe   | 1,000     | 1d8 slashing    | 4 lb.  | Versatile (1d10)                      | 2             |
+| Flail       | 1,000     | 1d8 bludgeoning | 2 lb.  | -                                     | 2             |
+| Glaive      | 2,000     | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed              | 3             |
+| Greataxe    | 3,000     | 1d12 slashing   | 7 lb.  | Heavy, two-handed                     | 3             |
+| Greatsword  | 5,000     | 2d6 slashing    | 6 lb.  | Heavy, two-handed                     | 3             |
+| Halberd     | 2,000     | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed              | 3             |
+| Lance       | 1,000     | 1d12 piercing   | 6 lb.  | Reach, special                        | 2             |
+| Longsword   | 1,500     | 1d8 slashing    | 3 lb.  | Versatile (1d10)                      | 2             |
+| Maul        | 1,000     | 2d6 bludgeoning | 10 lb. | Heavy, two-handed                     | 3             |
+| Morningstar | 1,500     | 1d8 piercing    | 4 lb.  | -                                     | 2             |
+| Pike        | 500       | 1d10 piercing   | 18 lb. | Heavy, reach, two-handed              | 3             |
+| Rapier      | 2,500     | 1d8 piercing    | 2 lb.  | Finesse                               | 2             |
+| Scimitar    | 2,500     | 1d6 slashing    | 3 lb.  | Finesse, light                        | 2             |
+| Shortsword  | 1,000     | 1d6 piercing    | 2 lb.  | Finesse, light                        | 2             |
+| Trident     | 500       | 1d6 piercing    | 4 lb.  | Thrown (range 20/60), versatile (1d8) | 2             |
+| War pick    | 500       | 1d8 piercing    | 2 lb.  | -                                     | 2             |
+| Warhammer   | 1,500     | 1d8 bludgeoning | 2 lb.  | Versatile (1d10)                      | 2             |
+| Whip        | 200       | 1d4 slashing    | 3 lb.  | Finesse, reach                        | 2             |
+
+### Martial Ranged Weapons
+
+| Weapon          | Cost (cp) | Damage        | Weight | Properties                                             | Modifications |
+| :-------------- | :-------- | :------------ | :----- | :----------------------------------------------------- | :------------ |
+| Blowgun         | 1,000     | 1 piercing    | 1 lb.  | Ammunition (range 25/100), loading                     | 2             |
+| Crossbow, hand  | 7,500     | 1d6 piercing  | 3 lb.  | Ammunition (range 30/120), light, loading              | 2             |
+| Crossbow, heavy | 5,000     | 1d10 piercing | 18 lb. | Ammunition (range 100/400), heavy, loading, two-handed | 3             |
+| Longbow         | 5,000     | 1d8 piercing  | 2 lb.  | Ammunition (range 150/600), heavy, two-handed          | 3             |
+| Net             | 100       | -             | 3 lb.  | Special, thrown (range 5/15)                           | 2             |
 
 ## Firearms
 
@@ -47,23 +108,23 @@ In addition to the simple and martial weapon proficiencies, certain classes gain
 
 #### *Simple Firearms*
 
-| Weapon | Cost (cp) | Damage | Weight | Ammo | Properties |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| Double-barrel Shotgun | 2000 | 2d6 piercing | 8 lb. | Shells | Ammunition (range 40/120), reload (2), scatter (2d8), strength 9, two-handed |
-| Handgun | 1000 | 2d4 piercing | 3 lb. | Bullets | Ammunition (range 60/180), light, reload (10) |
-| Hunting Rifle | 1700 | 2d6 piercing | 8 lb. | Bullets | Ammunition (range 80/240), reload (5), two-handed |
-| Machine Pistol | 1500 | 2d4 piercing | 5 lb. | Bullets | Ammunition (range 30/90), automatic, foregrip, light, reload (10) |
-| Revolver | 1200 | 2d6 piercing | 3 lb. | Bullets | Ammunition (range 60/180), reload (6) |
-| Sawed-Off Shotgun | 2000 | 2d6 piercing | 6 lb. | Shells | Ammunition (range 20/60), foregrip, reload (2), scatter (2d8), strength 9 |
-| Submachine Gun | 2500 | 2d6 piercing | 6 lb. | Bullets | Ammunition (range 40/120), automatic, reload (20), two-handed |
+| Weapon | Cost (cp) | Damage | Weight | Ammo | Properties | Modifications |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Double-barrel Shotgun | 2000 | 2d6 piercing | 8 lb. | Shells | Ammunition (range 40/120), reload (2), scatter (2d8), strength 9, two-handed | 2 |
+| Handgun | 1000 | 2d4 piercing | 3 lb. | Bullets | Ammunition (range 60/180), light, reload (10) | 1 |
+| Hunting Rifle | 1700 | 2d6 piercing | 8 lb. | Bullets | Ammunition (range 80/240), reload (5), two-handed | 2 |
+| Machine Pistol | 1500 | 2d4 piercing | 5 lb. | Bullets | Ammunition (range 30/90), automatic, foregrip, light, reload (10) | 1 |
+| Revolver | 1200 | 2d6 piercing | 3 lb. | Bullets | Ammunition (range 60/180), reload (6) | 1 |
+| Sawed-Off Shotgun | 2000 | 2d6 piercing | 6 lb. | Shells | Ammunition (range 20/60), foregrip, reload (2), scatter (2d8), strength 9 | 1 |
+| Submachine Gun | 2500 | 2d6 piercing | 6 lb. | Bullets | Ammunition (range 40/120), automatic, reload (20), two-handed | 2 |
 
 #### *Martial Firearms*
 
-| Weapon | Cost (cp) | Damage | Weight | Ammo | Properties |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| Assault Rifle | 3000 | 2d6 piercing | 7 lb. | Bullets | Ammunition (range 100/400), automatic, reload (20), two-handed |
-| Gatling Gun | 30,000 | 2d12 piercing | 85 lb. | Bullets | Ammunition (range 100/400), automatic, heavy, mounted, reload (40, action), two-handed, strength 15 |
-| Light Machine Gun | 12,000 | 2d10 piercing | 25 lb. | Bullets | Ammunition (range 100/400), automatic, heavy, reload (40, action), two-handed, strength 13 |
-| Magnum | 4000 | 2d8 piercing | 6 lb. | Bullets | Ammunition (range 60/240), heavy, reload (8) |
-| Pump Shotgun | 3000 | 2d6 piercing | 7 lb. | Shells | Ammunition (range 80/320), reload (10), scatter (2d8), two-handed, strength 11 |
-| Sniper Rifle | 10,000 | 2d8 piercing | 8 lb. | Bullets | Ammunition (range 200/800), heavy, reload (6), sighted, two-handed |
+| Weapon            | Cost (cp) | Damage        | Weight | Ammo    | Properties                                                                                          | Modifications |
+| :---------------- | :-------- | :------------ | :----- | :------ | :-------------------------------------------------------------------------------------------------- | :------------ |
+| Assault Rifle     | 3000      | 2d6 piercing  | 7 lb.  | Bullets | Ammunition (range 100/400), automatic, reload (20), two-handed                                      | 3             |
+| Gatling Gun       | 30,000    | 2d12 piercing | 85 lb. | Bullets | Ammunition (range 100/400), automatic, heavy, mounted, reload (40, action), two-handed, strength 15 | 3             |
+| Light Machine Gun | 12,000    | 2d10 piercing | 25 lb. | Bullets | Ammunition (range 100/400), automatic, heavy, reload (40, action), two-handed, strength 13          | 3             |
+| Magnum            | 4000      | 2d8 piercing  | 6 lb.  | Bullets | Ammunition (range 60/240), heavy, reload (8)                                                        | 3             |
+| Pump Shotgun      | 3000      | 2d6 piercing  | 7 lb.  | Shells  | Ammunition (range 80/320), reload (10), scatter (2d8), two-handed, strength 11                      | 3             |
+| Sniper Rifle      | 10,000    | 2d8 piercing  | 8 lb.  | Bullets | Ammunition (range 200/800), heavy, reload (6), sighted, two-handed                                  | 3             |

@@ -1,7 +1,7 @@
 @use "./variables.scss" as *;
 
 // ---------------------------------------------------------------
-// Zeal City terminal theme
+// Zeal City neon theme
 // Colors and fonts live in quartz.config.yaml (theme section).
 // This file adds the effects that the config can't express.
 // ---------------------------------------------------------------
@@ -37,7 +37,7 @@ thead,
   h2,
   h3,
   .page-title a {
-    text-shadow: 0 0 6px rgba(0, 255, 65, 0.45);
+    text-shadow: 0 0 6px rgba(0, 200, 255, 0.45);
   }
 }
 
@@ -60,7 +60,7 @@ thead,
   }
 }
 
-// Text selection in terminal green.
+// Text selection in neon blue.
 ::selection {
   background: var(--secondary);
   color: var(--light);

@@ -42,7 +42,7 @@ As with mounted combat, the vehicle shares initiative with the driver, and the v
 
 ### Armor Class and Hit Points
 
-Each vehicle has an Armor Class and Hit Points, just like all creatures, and can be targeted by attacks. However, the construction of a vehicle gives it some durability against damage. If a vehicle receives damage from a single source and the damage amount is less than half its Armor Class, it instead takes no damage. Furthermore, all vehicles are immune to poison and psychic damage.
+Each vehicle has an Armor Class and Hit Points, just like all creatures, and can be targeted by attacks. However, the construction of a vehicle gives it some durability against damage, represented by a **damage threshold** (see the Vehicles Table). A vehicle is immune to damage from a single attack or effect unless that damage equals or exceeds its damage threshold, in which case it takes the full damage as normal. Resistance and vulnerability are applied before comparing the damage to the threshold. Furthermore, all vehicles are immune to poison and psychic damage.
 
 When a vehicle's hit points reach 0, it explodes. When the vehicle explodes, all creatures within 10 ft of the vehicle must make a Dexterity Saving throw against the vehicle's **Crash DC**, taking the vehicle's **explosion damage** on a failure, or half on success. These numbers can be found in the Vehicles Table. The vehicle can no longer be used if it has 0 hit points until it is repaired at a shop.
 
@@ -80,26 +80,26 @@ Vehicle speeds and statistics given are for combat in smaller spaces, and so veh
 
 ### Land Vehicles
 
-| Name | Price (cp) | Size | Covered | Seat Capacity | Speed | AC | HP | Crash DC | Explosion Damage | Cargo Capacity |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Motorcycle | 7,500 | Medium | No | 1 | 65 ft | 13 | 50 | 11 | 3d6 fire | 200 lbs |
-| Car | 15,000 | Large | Yes | 5 | 60 ft | 14 | 60 | 13 | 4d6 fire | 500 lbs |
-| Van | 25,000 | Large | Yes | 9 | 55 ft | 14 | 60 | 13 | 5d6 fire | 1000 lbs |
-| Truck | 20,000 | Large | Yes | 3 | 60 ft | 14 | 60 | 13 | 4d6 fire | 2000 lbs |
-| Bus | 800,000 | Gargantuan | Yes | 50 | 45 ft | 14 | 100 | 14 | 8d6 fire | 10,000 lbs |
+| Name | Price (cp) | Size | Covered | Seat Capacity | Speed | AC | HP | Damage Threshold | Crash DC | Explosion Damage | Cargo Capacity |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Motorcycle | 7,500 | Medium | No | 1 | 65 ft | 13 | 50 | 5 | 11 | 3d6 fire | 200 lbs |
+| Car | 15,000 | Large | Yes | 5 | 60 ft | 14 | 60 | 10 | 13 | 4d6 fire | 500 lbs |
+| Van | 25,000 | Large | Yes | 9 | 55 ft | 14 | 60 | 10 | 13 | 5d6 fire | 1000 lbs |
+| Truck | 20,000 | Large | Yes | 3 | 60 ft | 14 | 60 | 15 | 13 | 4d6 fire | 2000 lbs |
+| Bus | 800,000 | Gargantuan | Yes | 50 | 45 ft | 14 | 100 | 15 | 14 | 8d6 fire | 10,000 lbs |
 
 ### Water Vehicles
 
-| Name | Price (cp) | Size | Covered | Seat Capacity | Speed | AC | HP | Crash DC | Explosion Damage | Cargo Capacity |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Jet Ski | 10,000 | Medium | No | 1 | 0 ft, swim 55 ft | 13 | 30 | 11 | 2d6 fire | 100 lbs |
-| Motorboat | 25,000 | Large | Yes | 5 | 0 ft, swim 50 ft | 14 | 60 | 13 | 4d6 fire | 500 lbs |
-| Cruiser | 1,000,000 | Huge | Yes | 9 | 0 ft, swim 45 ft | 14 | 135 | 14 | 5d6 fire | 1000 lbs |
+| Name | Price (cp) | Size | Covered | Seat Capacity | Speed | AC | HP | Damage Threshold | Crash DC | Explosion Damage | Cargo Capacity |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Jet Ski | 10,000 | Medium | No | 1 | 0 ft, swim 55 ft | 13 | 30 | 5 | 11 | 2d6 fire | 100 lbs |
+| Motorboat | 25,000 | Large | Yes | 5 | 0 ft, swim 50 ft | 14 | 60 | 10 | 13 | 4d6 fire | 500 lbs |
+| Cruiser | 1,000,000 | Huge | Yes | 9 | 0 ft, swim 45 ft | 14 | 135 | 15 | 14 | 5d6 fire | 1000 lbs |
 
 ### Air Vehicles
 
-| Name | Price (cp) | Size | Covered | Seat Capacity | Speed | AC | HP | Crash DC | Explosion Damage | Cargo Capacity |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Helicopter | 12,000,000 | Large | Yes | 6 | 0 ft, fly 75 ft | 14 | 75 | 13 | 4d6 fire | 200 lbs |
-| Small Jet | 32,000,000 | Gargantuan | Yes | 12 | 70 ft, fly 180 ft | 16 | 180 | 14 | 8d6 fire | 5000 lbs |
-| Floatplane | 22,000,000 | Huge | Yes | 7 | 0 ft, fly 90 ft | 14 | 155 | 14 | 6d6 fire | 2000 lbs |
+| Name | Price (cp) | Size | Covered | Seat Capacity | Speed | AC | HP | Damage Threshold | Crash DC | Explosion Damage | Cargo Capacity |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Helicopter | 12,000,000 | Large | Yes | 6 | 0 ft, fly 75 ft | 14 | 75 | 10 | 13 | 4d6 fire | 200 lbs |
+| Small Jet | 32,000,000 | Gargantuan | Yes | 12 | 70 ft, fly 180 ft | 16 | 180 | 20 | 14 | 8d6 fire | 5000 lbs |
+| Floatplane | 22,000,000 | Huge | Yes | 7 | 0 ft, fly 90 ft | 14 | 155 | 15 | 14 | 6d6 fire | 2000 lbs |

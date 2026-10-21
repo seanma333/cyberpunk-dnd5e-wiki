@@ -1,10 +1,11 @@
 ---
-title: "Character Creation"
+title: "Character Options"
+aliases:
+  - "Sources"
+  - "Banned Feats"
 ---
 
-The rules for creating a character are the same as in base D&D 5th edition.
-
-Create your character in Foundry VTT using its character builder. The custom content for this campaign, such as the Cyberpunk backgrounds, weapons, armor, and gear, is provided through my Foundry module.
+These rules apply whenever you build a new character or choose new options as your character advances, such as feats, subclasses, and multiclassing.
 
 ## Character Rules
 
@@ -36,7 +37,7 @@ Character options may come from the following official books:
 | *Mordenkainen Presents: Monsters of the Multiverse* | Yes | - |
 | *Dragonlance: Shadow of the Dragon Queen* | No | Lunar Sorcery only |
 
-Feats and spells may also come from any of these books, except *Dragonlance: Shadow of the Dragon Queen*. The Strixhaven Initiate, Strixhaven Mascot, Sharpshooter, and Lucky feats are not allowed. Lucky is replaced by [[Rest and Recovery#Rest Points|Rest Points]], the damage portion of Sharpshooter is replaced by [[House Rules#Power Attacks|Power Attacks]], and the Gunner feat is replaced by [[Feats#Gunslinger|Gunslinger]].
+Feats and spells may also come from any of these books, except *Dragonlance: Shadow of the Dragon Queen*. The **Strixhaven Initiate**, **Strixhaven Mascot**, **Sharpshooter**, and **Lucky** feats are not allowed. Lucky is replaced by [[Rest and Recovery#Rest Points|Rest Points]], the damage portion of Sharpshooter is replaced by [[House Rules/index#Power Attacks|Power Attacks]], and the Gunner feat is replaced by [[Feats#Gunslinger|Gunslinger]].
 
 ## Race Selection
 
@@ -47,19 +48,3 @@ Every race has a place in [[Zeal City]]. There are some lore-specific additions 
 ## Class Selection
 
 All classes and subclasses from the books above are free to choose from, and you may use any and all optional features for the classes. If a class or subclass appears in more than one book, use the most recent version (for example, the Artificer from *Tasha's Cauldron of Everything* rather than *Eberron: Rising from the Last War*). Multiclassing is allowed as well.
-
-## Ability Scores
-
-Use Point Buy for your ability score generation.
-
-## Backgrounds
-
-You must select one of the custom Cyberpunk Backgrounds. I've tried to make them all fit with a Cyberpunk setting while keeping them in-line with existing 5e backgrounds.
-
-It is important to note that, regardless of your background, **you were about to end up on the streets, having no choice but to start looking for lancer work**. Take this into account when you write your backstory, since exactly what has put you into this situation may come up during the campaign.
-
-You may choose any of the backgrounds listed in [[System Updates/Backgrounds/index|Backgrounds]]. Each background's page lists its proficiencies, languages, starting equipment, and starting cp.
-
-## Religion
-
-If you choose to follow a religion, please refer to [[Religion]]. If you are playing a **Cleric**, choose the deity for your Cleric domain.

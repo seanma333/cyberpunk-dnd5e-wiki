@@ -14,5 +14,5 @@ General rules changes for playing 5e in a cyberpunk world: armor, firearms, weap
 ### [[Setting and Lore/index|Setting and Lore]]
 The story of Ryse and Zeal City: the Mana Wars, the city's districts, the thirteen megacorporations, the criminal underworld, and religion.
 
-### [[Campaign Guide/index|Campaign Guide]]
-Player-facing information for the current campaign: how to join the game, character creation, starting equipment, and house rules.
+### [[House Rules/index|House Rules]]
+The house rules for this campaign: Power Attacks, flying, rest and recovery, and character options.

@@ -12,38 +12,45 @@ A weapon cannot have more than one of the same attachment or modification. A pro
 
 A modification that requires a damage type (such as Arc Point, Mono-Edge, or Siegetek) only takes effect on attacks that deal that type of damage. A weapon that can deal more than one damage type, such as a glaive used with the Polearm Master feat, can take a modification for each type, using a separate modification slot for each.
 
-| Name               | Cost           | Requirements                                    | Type         |
-| :----------------- | :------------- | :---------------------------------------------- | :----------- |
-| Arc Point          | 20,000 cp      | Melee weapon that deals piercing damage         | Modification |
-| Ballistic Blade    | 15,000 cp      | Melee weapon with the heavy property            | Modification |
-| Bayonet            | 200 cp         | Firearm with the two-handed property            | Attachment   |
-| Bullet Storm       | 15,000 cp      | Firearm with the automatic property             | Modification |
-| Collapsible Frame  | 5,000 cp       | Melee weapon without the heavy property         | Modification |
-| Deadeye Stabilizer | 15,000 cp      | Any ranged weapon                               | Modification |
-| Extended Magazine  | 1,000 cp       | Firearm with a reload capacity of 5 or more     | Attachment   |
-| High Impact Shots  | 2x weapon cost | Firearm with a Strength requirement             | Modification |
-| Kinetic Piston     | 15,000 cp      | Melee weapon                                    | Modification |
-| Lightweight Design | 3x weapon cost | Any weapon                                      | Modification |
-| Magnetic Recall    | 5,000 cp       | Weapon with the thrown property                 | Modification |
-| Mana Capacitor     | 40,000 cp      | Non-magical weapon                              | Modification |
-| Mobile Shot        | 15,000 cp      | Ranged weapon without the two-handed property   | Modification |
-| Momentum Flywheel  | 10,000 cp      | Melee weapon with the heavy property            | Modification |
-| Mono-Edge          | 20,000 cp      | Melee weapon that deals slashing damage         | Modification |
-| Neurotoxin Feed    | 10,000 cp      | Any ranged weapon                               | Modification |
-| Parry Module       | 15,000 cp      | Melee weapon                                    | Modification |
-| Payload Launcher   | 10,000 cp      | Light crossbow or heavy crossbow                | Modification |
-| Power Shot         | 20,000 cp      | Any firearm                                     | Modification |
-| Recoil Hilt        | 20,000 cp      | Finesse melee weapon without the two-handed property | Modification |
-| Scope              | 200 cp         | Any ranged weapon                               | Attachment   |
-| Siegetek           | 20,000 cp      | Melee weapon that deals bludgeoning damage      | Modification |
-| Silencer           | 2,000 cp       | Firearm without the Scatter or Mounted property | Attachment   |
-| Silvered           | 10,000 cp      | Melee weapon or 20 pieces of ammunition         | Modification |
-| Sling              | 100 cp         | Any weapon                                      | Attachment   |
-| Smartgun System    | 1x weapon cost | Any firearm                                     | Modification |
-| Spellbreaker       | 40,000 cp      | Non-magical weapon                              | Modification |
-| Thrust Assist      | 15,000 cp      | Melee weapon                                    | Modification |
-| Titanstring        | 20,000 cp      | Shortbow or longbow                             | Modification |
-| Wide Sweep         | 1x weapon cost | Firearm with the Scatter property               | Modification |
+### Attachments
+
+| Name                                      | Cost     | Requirements                                    |
+| :---------------------------------------- | :------- | :---------------------------------------------- |
+| [[#Bayonet\|Bayonet]]                     | 200 cp   | Firearm with the two-handed property            |
+| [[#Extended Magazine\|Extended Magazine]] | 1,000 cp | Firearm with a reload capacity of 5 or more     |
+| [[#Scope\|Scope]]                         | 200 cp   | Any ranged weapon                               |
+| [[#Silencer\|Silencer]]                   | 2,000 cp | Firearm without the Scatter or Mounted property |
+| [[#Sling\|Sling]]                         | 100 cp   | Any weapon                                      |
+
+### Modifications
+
+| Name                                        | Cost           | Requirements                                         |
+| :------------------------------------------ | :------------- | :--------------------------------------------------- |
+| [[#Arc Point\|Arc Point]]                   | 20,000 cp      | Melee weapon that deals piercing damage              |
+| [[#Ballistic Blade\|Ballistic Blade]]       | 15,000 cp      | Melee weapon with the heavy property                 |
+| [[#Bullet Storm\|Bullet Storm]]             | 15,000 cp      | Firearm with the automatic property                  |
+| [[#Collapsible Frame\|Collapsible Frame]]   | 5,000 cp       | Melee weapon without the heavy property              |
+| [[#Deadeye Stabilizer\|Deadeye Stabilizer]] | 15,000 cp      | Any ranged weapon                                    |
+| [[#High Impact Shots\|High Impact Shots]]   | 2x weapon cost | Firearm with a Strength requirement                  |
+| [[#Kinetic Piston\|Kinetic Piston]]         | 15,000 cp      | Melee weapon                                         |
+| [[#Lightweight Design\|Lightweight Design]] | 3x weapon cost | Any weapon                                           |
+| [[#Magnetic Recall\|Magnetic Recall]]       | 5,000 cp       | Weapon with the thrown property                      |
+| [[#Mana Capacitor\|Mana Capacitor]]         | 40,000 cp      | Non-magical weapon                                   |
+| [[#Mobile Shot\|Mobile Shot]]               | 15,000 cp      | Ranged weapon without the two-handed property        |
+| [[#Momentum Flywheel\|Momentum Flywheel]]   | 10,000 cp      | Melee weapon with the heavy property                 |
+| [[#Mono-Edge\|Mono-Edge]]                   | 20,000 cp      | Melee weapon that deals slashing damage              |
+| [[#Neurotoxin Feed\|Neurotoxin Feed]]       | 10,000 cp      | Any ranged weapon                                    |
+| [[#Parry Module\|Parry Module]]             | 15,000 cp      | Melee weapon                                         |
+| [[#Payload Launcher\|Payload Launcher]]     | 10,000 cp      | Light crossbow or heavy crossbow                     |
+| [[#Power Shot\|Power Shot]]                 | 20,000 cp      | Any firearm                                          |
+| [[#Recoil Hilt\|Recoil Hilt]]               | 20,000 cp      | Finesse melee weapon without the two-handed property |
+| [[#Siegetek\|Siegetek]]                     | 20,000 cp      | Melee weapon that deals bludgeoning damage           |
+| [[#Silvered\|Silvered]]                     | 10,000 cp      | Melee weapon or 20 pieces of ammunition              |
+| [[#Smartgun System\|Smartgun System]]       | 1x weapon cost | Any firearm                                          |
+| [[#Spellbreaker\|Spellbreaker]]             | 40,000 cp      | Non-magical weapon                                   |
+| [[#Thrust Assist\|Thrust Assist]]           | 15,000 cp      | Melee weapon                                         |
+| [[#Titanstring\|Titanstring]]               | 20,000 cp      | Shortbow or longbow                                  |
+| [[#Wide Sweep\|Wide Sweep]]                 | 1x weapon cost | Firearm with the Scatter property                    |
 
 ## Arc Point
 
@@ -149,9 +156,9 @@ Once per turn, when you miss a creature with a melee attack using this weapon, t
 *Requirement: Melee weapon that deals slashing damage*  
 Monomolecular edges, or "mono-edges", refer to blades that have been precision sharpened by lasers to the point where the cutting edge is measured in terms of molecules. In actuality, the term is more marketing than scientific, but the blades are still sharp enough to cause severe damage.
 
-Whenever you deal slashing damage with this weapon, you deal an additional 1d8 slashing damage.
+Whenever you deal slashing damage with this weapon, you deal an additional 1d10 slashing damage.
 
-- **Severing Strike.** When you score a critical hit with this weapon that deals slashing damage, roll the Mono-Edge's extra damage die one additional time.
+- **Severing Strike.** The critical hit range of your attacks with this weapon that deal slashing damage increases by 1 (normally from 20 to 19–20). This stacks with other features that expand your critical hit range, such as the Champion fighter's Improved Critical. When you score a critical hit with this weapon that deals slashing damage, roll the Mono-Edge's extra damage die one additional time.
 - **Cleave.** Once per turn, if you reduce a creature to 0 hit points with an attack using this weapon that deals slashing damage, you can immediately make another attack with the same weapon against a different creature within reach.
 
 ## Neurotoxin Feed

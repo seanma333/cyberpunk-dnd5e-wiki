@@ -8,7 +8,7 @@ Your leg muscles and tendons are replaced with machines powered by hydraulics wh
 
 **Tier 1.** Your movement speed increases by 10 feet and your jump distance is tripled. When you fall, you can use your reaction to take no damage from falling. Making a standing long jump no longer reduces the distance you can jump.
 
-**Tier 2.** Previous tier applies. Additionally, your legs become natural weapons with the finesse property, which you can use to make unarmed strikes. If you hit with it, you deal bludgeoning equal to 1d6 + your Strength or Dexterity Modifier (your choice).
+**Tier 2.** Previous tier applies. Additionally, your legs become natural weapons with the finesse property, which you can use to make unarmed strikes. If you hit with it, you deal bludgeoning damage equal to 1d6 + your Strength or Dexterity modifier (your choice).
 
 When you use your reaction to take no damage from falling, you can make a special attack with your legs against a target within 5 feet of you. If the attack hits, it deals its normal damage plus 1d6 for every 10 feet you fell. You can't use this ability again until you finish a short or long rest.
 

@@ -6,7 +6,7 @@ tags:
 
 Razor blades are implanted into your hands that extend from under your fingernails, from along the edge of hand, or from between your knuckles. They allow for climbing and cutting with equal ease. At higher tiers, the claws are further enhanced with more powerful magic and your body has been adjusted to produce poison for the blades.
 
-**Tier 1.** Unless you have these weapons drawn, they are concealed. You can draw or stow one or both sets of claws at the same time. You have proficiency with your claws, and they have the finesse, light, and silvered properties, and can be used for two-weapon fighting if both hands are otherwise empty. They deal 1d8 slashing damage. When you roll a 20 for the d20 on your attack roll with these claws, you can make one additional melee weapon attack against the target.
+**Tier 1.** Unless you have these weapons drawn, they are concealed. You can draw or stow one or both sets of claws at the same time. You have proficiency with your claws, and they have the finesse, light, and silvered properties. They deal 1d8 slashing damage. When you roll a 20 for the d20 on your attack roll with these claws, you can make one additional melee weapon attack against the target.
 
 While you have both claws drawn, you can use them for two-weapon fighting, and you gain a climbing speed of 20 feet. If you fall, and at any point during the fall you are within 5 feet of a solid wall, you can use your reaction to stop falling and catch onto the wall's surface.
 

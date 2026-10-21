@@ -4,7 +4,7 @@ aliases:
   - "Cybernetics"
 ---
 
-Cyberpunk settings often deal with what humanity is, and the replacement of organic body parts with machine parts are an allegory for what is the measure of a person's humanity. For game purposes, cybernetic enhancements (known colloquially in the world as **cyberware**) give special abilities to people through augmenting their bodies. Cyberware is incredibly useful, but it is expensive, and most cyberware comes with different tiers: the higher the tier, the more powerful the cyberware..
+Cyberpunk settings often deal with what humanity is, and the replacement of organic body parts with machine parts are an allegory for what is the measure of a person's humanity. For game purposes, cybernetic enhancements (known colloquially in the world as **cyberware**) give special abilities to people through augmenting their bodies. Cyberware is incredibly useful, but it is expensive, and most cyberware comes with different tiers: the higher the tier, the more powerful the cyberware.
 
 ## Installing Cyberware
 
@@ -27,15 +27,20 @@ Cyberware can only be installed or extracted safely by a cybersurgeon or by some
 
 Some cyberware have multiple tiers, indicating more advanced technology for higher tiers. You can upgrade from a lower tier cyberware implant to a higher tier version for the cost of the surgery fee at the new tier and the difference between the cost of the higher tier version and the lower tier version.
 
+## Cyberware and Other Rules
+
+- **EMPs.** Installed cyberware is shielded. Effects that cause machines to cease to function, such as an [[Explosives#EMP Grenade|EMP Grenade]] or an [[EMP Projector]], don't affect cyberware installed in a creature.
+- **Magic.** Cyberware is technology, not magic, unless its description says otherwise (such as the magical claws of higher-tier [[Cyberclaws]]). Spells such as *dispel magic*, *antimagic field*, and *detect magic* don't affect or reveal it.
+- **Weapon Upgrades.** Weapons that are part of cyberware, such as [[Cyberclaws]] or the legs from [[Hydraulic Jacks]], can't take [[Weapon Upgrades|weapon upgrades]].
+
 ## Cyberware List
 
 | Name | Cost (Tier 1) | Cost (Tier 2) | Cost (Tier 3) | Cost (Tier 4) |
 | :---- | :---- | :---- | :---- | :---- |
-| [[Armblade]] | 25,000 cp | 125,000 cp | 625,000 cp | 3,125,000 cp |
-| [[Bone Lacing]] | -- | 175,000 cp | -- | 4,375,000 cp |
+| [[Bone Lacing]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Chameleon Skin]] | -- | 200,000 cp | 1,000,000 cp | 5,000,000 cp |
 | [[Cyberclaws]] | 35,000 cp | 175,000 cp | 875,000 cp | 4,375,000 cp |
-| [[Dermal Barrier]] | -- | 200,000 cp | -- | -- |
+| [[Dermal Barrier]] | -- | 200,000 cp | 1,000,000 cp | -- |
 | [[Elastic Joints]] | -- | 150,000 cp | -- | -- |
 | [[EMP Projector]] | -- | 150,000 cp | -- | -- |
 | [[Encephalon]] | 35,000 cp | -- | 875,000 cp | -- |
@@ -44,12 +49,13 @@ Some cyberware have multiple tiers, indicating more advanced technology for high
 | [[Immune System Booster]] | 30,000 cp | -- | -- | -- |
 | [[Integrated Grapple Gun]] | 25,000 cp | -- | -- | -- |
 | [[Internal Battery]] | -- | 175,000 cp | 875,000 cp | -- |
-| [[Jet Boosters]] | -- | -- | 875,000 cp | -- |
+| [[Jet Boosters]] | -- | 175,000 cp | 875,000 cp | -- |
 | [[Muscle Reinforcement]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Neural Burst]] | -- | -- | -- | 5,000,000 cp |
+| [[Pain Editor]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Sensory Enhancement]] | 25,000 cp | 125,000 cp | 625,000 cp | 3,125,000 cp |
 | [[Smartgun Augment]] | 15,000 cp | -- | -- | -- |
-| [[Subdermal Plating]] | 40,000 cp | 200,000 cp | -- | -- |
-| [[Tailored Pheromones]] | -- | 150,000 cp | -- | -- |
+| [[Subdermal Plating]] | 40,000 cp | 200,000 cp | 1,000,000 cp | -- |
+| [[Tailored Pheromones]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Warp Cortex]] | -- | -- | 875,000 cp | -- |
-| [[Wired Reflexes]] | -- | 175,000 cp | -- | 4,375,000 cp |
+| [[Wired Reflexes]] | 35,000 cp | -- | 875,000 cp | -- |

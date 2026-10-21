@@ -70,7 +70,7 @@ When you complete a partial rest, the following effects happen in order:
 2. You regain half your expended hit dice (rounded down).
 3. If you have any levels of exhaustion, you can make a Constitution check. The DC of the check is the **Rest DC** of the character's lifestyle for the previous day, as outlined in the [[#Lifestyle Table]]. On a success, you may remove one level of exhaustion. This check cannot be modified by spells or other effects.
 4. If you have the Spellcasting feature, you can regain some of your expended spell slots. The spell slots can have a combined level that is equal to or less than half your spellcaster level (rounded up), and none of the slots can be 6th level or higher.
-5. If you have any features (not including Spellcasting) that are gained by class, race, or feats that recover after a long rest, you can recover up to half the expended uses of those features (rounded down).
+5. If you have any features (not including Spellcasting) that are gained by class, race, feats, or [[System Updates/Cyberware/index|cyberware]] that recover after a long rest, you can recover up to half the expended uses of those features (rounded up). Cyberware that regains charges over a long rest regains half the rolled amount (rounded up).
 6. You may roll for a Rest Point (see [[#Rest Points]] below).
 
 If a character ends a 24-hour period without finishing a partial or a long rest, they must make a DC 10 Constitution saving throw or suffer one level of exhaustion. The DC increases by 5 for each consecutive 24-hour period without a partial or long rest. The DC resets to 10 when they finish a long rest (but not a partial rest).

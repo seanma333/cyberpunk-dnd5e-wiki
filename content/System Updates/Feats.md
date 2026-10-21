@@ -10,10 +10,10 @@ Your hacking skills have become instinctual to the point that you're able to bre
 
 * Increase your Intelligence score by 1, to a maximum of 20.  
 * You may make tool checks using Hacker's Tools to interact with hackable objects that are not being worn or carried as a bonus action, instead of an action. You may not make such a tool check as an action on the same turn that you make one as a bonus action.  
-* As an action, if you have Hacker's Tools and a wireless transceiver, you can target a [[Weapons#Firearms|firearm]], a worn headset, or a Construct with the Electronics property that you can see within 60 feet of you, and cause a different effect depending on the target. You cannot use this ability on the same target again until one minute has passed.  
+* As an action, if you have Hacker's Tools and a wireless transceiver, you can target a [[Weapons#Firearms|firearm]], a worn headset, or a Construct with the Electronics feature that you can see within 60 feet of you, and cause a different effect depending on the target. You cannot use this ability on the same target again until one minute has passed.  
   * If the target is a firearm, you cause the internal system to reboot, and the firearm becomes unusable until the start of your next turn.  
   * If the target is a worn headset, you overload the HUD on the headset, causing the wearer to be blinded until the start of your next turn.  
-  * If the target is a Construct with the Electronics property, it must make a Constitution saving throw (DC is 8 + your proficiency bonus + your Intelligence modifier). On a failure, you take control of the target's next turn. On a success, the construct is incapacitated until the start of your next turn.
+  * If the target is a Construct with the Electronics feature, it must make a Constitution saving throw (DC is 8 + your proficiency bonus + your Intelligence modifier). On a failure, you take control of the target's next turn. On a success, the construct is incapacitated until the start of your next turn.
 
 ## Cyberman
 

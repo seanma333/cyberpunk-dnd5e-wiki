@@ -93,4 +93,4 @@ Unless otherwise stated, the effects of drugs will stack with each other if thei
 ## See Also
 
 - [[Crime#Drug Trade|Drug Trade]]: the drug trade in Zeal City.
-- [[Immune System Booster]]: cyberware that makes you immune to the effects of drugs.
+- [[Immune System Booster]]: cyberware that makes you immune to the effects of drugs, unless you choose to let a drug affect you.

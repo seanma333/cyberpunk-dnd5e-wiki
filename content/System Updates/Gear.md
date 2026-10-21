@@ -33,7 +33,7 @@ Typical features of a smartphone include:
 
 **Fire Extinguisher.** The extinguisher has 10 charges. As an action, 1 to 3 charges can be used to extinguish an equal number of burning creatures, objects, or [[Vehicles|vehicles]] within 10 feet. It can also extinguish a 5-foot area of fire.
 
-**First-Aid Kit.** This kit is a small box containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 Hit Points, without needing to make a Wisdom (Medicine) check. **(Note: This replaces the Healer's Kit from Core D&D 5e.)**
+**First-Aid Kit.** This kit is a small box containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 Hit Points, without needing to make a Wisdom (Medicine) check. **(Note: This replaces the Healer's Kit from Core D&D 5e. Any feature that uses a healer's kit, such as the Healer feat, works with a first-aid kit instead.)**
 
 **Flashlight.** Requires a free hand and a bonus action to turn on or off. When activated, this flashlight casts bright light in a 60-foot cone and dim light for an additional 60 feet. Alternatively, you can use the low-light setting, shining bright light in a 30-foot cone and dim light for an additional 30 feet. A flashlight battery lasts 24 hours.
 

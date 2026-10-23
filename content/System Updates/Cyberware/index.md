@@ -31,14 +31,16 @@ Some cyberware have multiple tiers, indicating more advanced technology for high
 
 - **EMPs.** Installed cyberware is shielded. Effects that cause machines to cease to function, such as an [[Explosives#EMP Grenade|EMP Grenade]] or an [[EMP Projector]], don't affect cyberware installed in a creature.
 - **Magic.** Cyberware is technology, not magic, unless its description says otherwise (such as the magical claws of higher-tier [[Cyberclaws]]). Spells such as *dispel magic*, *antimagic field*, and *detect magic* don't affect or reveal it.
-- **Weapon Upgrades.** Weapons that are part of cyberware, such as [[Cyberclaws]] or the legs from [[Hydraulic Jacks]], can't take [[Weapon Upgrades|weapon upgrades]].
+- **Weapon Upgrades.** Weapons that are part of cyberware, such as [[Cyberarms]], [[Cyberclaws]], or the legs from [[Hydraulic Jacks]], can't take [[Weapon Upgrades|weapon upgrades]].
 
 ## Cyberware List
 
 | Name | Cost (Tier 1) | Cost (Tier 2) | Cost (Tier 3) | Cost (Tier 4) |
 | :---- | :---- | :---- | :---- | :---- |
+| [[Auto-Injector]] | 15,000 cp | -- | -- | -- |
 | [[Bone Lacing]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Chameleon Skin]] | -- | 200,000 cp | 1,000,000 cp | 5,000,000 cp |
+| [[Cyberarms]] | 35,000 cp | 175,000 cp | 875,000 cp | 4,375,000 cp |
 | [[Cyberclaws]] | 35,000 cp | 175,000 cp | 875,000 cp | 4,375,000 cp |
 | [[Dermal Barrier]] | -- | 200,000 cp | 1,000,000 cp | -- |
 | [[Elastic Joints]] | -- | 150,000 cp | -- | -- |
@@ -50,12 +52,15 @@ Some cyberware have multiple tiers, indicating more advanced technology for high
 | [[Integrated Grapple Gun]] | 25,000 cp | -- | -- | -- |
 | [[Internal Battery]] | -- | 175,000 cp | 875,000 cp | -- |
 | [[Jet Boosters]] | -- | 175,000 cp | 875,000 cp | -- |
+| [[Laser Designator]] | 25,000 cp | -- | -- | -- |
+| [[Limbic Regulator]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Muscle Reinforcement]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Neural Burst]] | -- | -- | -- | 5,000,000 cp |
-| [[Pain Editor]] | 35,000 cp | -- | 875,000 cp | -- |
+| [[Platelet Factory]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Sensory Enhancement]] | 25,000 cp | 125,000 cp | 625,000 cp | 3,125,000 cp |
 | [[Smartgun Augment]] | 15,000 cp | -- | -- | -- |
 | [[Subdermal Plating]] | 40,000 cp | 200,000 cp | 1,000,000 cp | -- |
+| [[Suprathyroid]] | -- | -- | -- | 5,000,000 cp |
 | [[Tailored Pheromones]] | 35,000 cp | -- | 875,000 cp | -- |
 | [[Warp Cortex]] | -- | -- | 875,000 cp | -- |
 | [[Wired Reflexes]] | 35,000 cp | -- | 875,000 cp | -- |

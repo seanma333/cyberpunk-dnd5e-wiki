@@ -1,7 +1,5 @@
 ---
-title: "Limbic Regulator"
-aliases:
-  - "Pain Editor"
+title: Limbic Regulator
 tags:
   - cyberware
 ---

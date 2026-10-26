@@ -1,5 +1,5 @@
 ---
-title: "Platelet Factory"
+title: Platelet Factory
 tags:
   - cyberware
 ---

@@ -57,13 +57,9 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 *Prerequisite: Proficiency with Roboticist's Tools*  
 Your skills with robotics are unparalleled, to the point where you are able to easily control multiple [[Drones|drones]] to aid your work. You gain the following benefits:
 
-* You may control a number of drones up to your Intelligence modifier (minimum 1) using a single [[Gear|Remote Controller]]. You may only do this for one remote controller at a time.  
-* You may use the Remote Controller to control drones as a bonus action, rather than an action. You may not use the controller as an action on the same turn you use it as a bonus action. If you have a class feature that commands a companion as a bonus action (such as a Beast Master Ranger or a Battle Smith Artificer), you may control drones as part of the same bonus action you use to command a companion.  
-* At the end of a short or long rest, if you have Roboticist's Tools on your person, you may modify a number of drones that you are carrying up to your Intelligence modifier (minimum 1). You may choose a number of the following benefits equal to half your proficiency bonus (rounded up) to grant a modified drone. The benefits do not need to be the same for each drone you modify.  
-  * The modified drone gains temporary HP equal to twice your character level.  
-  * The modified drone gains a bonus to attack rolls equal to your proficiency bonus.  
-  * The modified drone gets a bonus to armor class equal to your proficiency bonus.  
-  * The modified drone gets a bonus to saving throws equal to your proficiency bonus.
+* You can link up to two drones to a single [[Gear|Remote Controller]] at once. This increases to three drones when you reach 11th level.  
+* As a bonus action, you can use your Remote Controller to command one linked drone. Alternatively, you can use it as an action to command each linked drone. You can't do both on the same turn. If you have a class feature that commands a companion as a bonus action (such as a Beast Master Ranger or a Battle Smith Artificer), you can command a drone as part of the same bonus action you use to command your companion.  
+* Drones linked to your Remote Controller add your proficiency bonus to their AC and attack rolls, and their hit point maximum increases by twice your character level.
 
 ## Street Samurai
 

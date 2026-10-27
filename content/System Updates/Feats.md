@@ -9,11 +9,14 @@ The following are new feats that can be taken by characters in the Cyberpunk Set
 Your hacking skills have become instinctual to the point that you're able to break systems even in the middle of a firefight. You gain the following benefits:
 
 * Increase your Intelligence score by 1, to a maximum of 20.  
-* You may make tool checks using Hacker's Tools to interact with hackable objects that are not being worn or carried as a bonus action, instead of an action. You may not make such a tool check as an action on the same turn that you make one as a bonus action.  
-* As an action, if you have Hacker's Tools and a wireless transceiver, you can target a [[Weapons#Firearms|firearm]], a worn headset, or a Construct with the Electronics feature that you can see within 60 feet of you, and cause a different effect depending on the target. You cannot use this ability on the same target again until one minute has passed.  
-  * If the target is a firearm, you cause the internal system to reboot, and the firearm becomes unusable until the start of your next turn.  
-  * If the target is a worn headset, you overload the HUD on the headset, causing the wearer to be blinded until the start of your next turn.  
-  * If the target is a Construct with the Electronics feature, it must make a Constitution saving throw (DC is 8 + your proficiency bonus + your Intelligence modifier). On a failure, you take control of the target's next turn. On a success, the construct is incapacitated until the start of your next turn.
+* **RAM.** You have a number of RAM points equal to your proficiency bonus. You regain all expended RAM when you finish a short or long rest.  
+* **Quickhacks.** While you have Hacker's Tools and a [[Gear|Wireless Transceiver]], you can use a bonus action and spend 1 RAM to quickhack a humanoid or construct you can see within 60 feet of you. The target must make a Constitution saving throw (DC equals 8 + your proficiency bonus + your Intelligence modifier). Constructs with the Electronics feature have disadvantage on this saving throw. On a failed save, choose one of the following effects:  
+  * **Weapon Glitch.** The target has disadvantage on the next attack roll it makes before the end of its next turn.  
+  * **Reboot Optics.** The target is blinded until the end of its next turn.  
+  * **Cripple Movement.** The target's speed is reduced to 0 until the end of its next turn.  
+  * **Short Circuit.** The target takes lightning damage equal to 2d6 + your Intelligence modifier. On a successful save, the target takes half as much damage instead.  
+* **Ping.** While you have Hacker's Tools and a Wireless Transceiver, you can use a bonus action to learn the location of each humanoid and construct within 60 feet of you, even through walls, until the end of your turn.  
+* **Netgunner.** When you hit a humanoid or construct with a ranged attack (including a ranged spell attack) while you have Hacker's Tools and a Wireless Transceiver, you can spend 1 RAM to quickhack it as part of the hit, without using your bonus action.
 
 ## Cyberman
 
@@ -30,16 +33,6 @@ You are a master at making things explode. You gain the following benefits:
 * Increase your Dexterity score by 1, to a maximum of 20.  
 * When you use or arm an [[Explosives|explosive]], you may add your proficiency bonus to all saving throw DCs of that explosive.  
 * You gain the ability to quickly craft effective explosives. If you have a Demolitionist's Toolkit on hand during a short or long rest, you may craft one explosive up to a maximum tier of half your proficiency bonus (rounded down) by spending one hour crafting. This explosive is makeshift and will not work 24 hours after being completed, and this explosive cannot be sold.
-
-## Getaway Driver
-
-You have become almost supernaturally familiar with [[Vehicles|vehicles]] of all shapes and sizes, gaining the following benefits:
-
-* Increase your Dexterity score by 1, to a maximum of 20.  
-* You gain proficiency with all vehicles.  
-* You can maintain control of a vehicle without having a free hand for the vehicle’s controls, though you must still be sitting in it.  
-* When you are driving a vehicle and your vehicle or anyone inside the vehicle is hit with an attack, you can use your reaction to add your proficiency bonus to the AC of the target against that attack, potentially causing it to miss.  
-* If a vehicle you are driving is subjected to an effect that allows it to make a Dexterity save to take only half damage, it takes no damage if it succeeds and only half damage if it fails.
 
 ## Gunslinger
 
@@ -77,3 +70,14 @@ You have honed your proficiency with particular tools, granting you the followin
 * Increase one ability score of your choice by 1, to a maximum of 20.  
 * You gain proficiency with one tool of your choice.  
 * Choose one tool with which you have proficiency. Your proficiency bonus is doubled for any ability check you make with it. The tool you choose must be one that isn’t already benefiting from a feature that doubles your proficiency bonus.
+
+## Vehicle Ace
+
+*Prerequisite: Proficiency with at least one type of [[Vehicles#Vehicle Proficiency|vehicle]]*  
+You have become almost supernaturally familiar with [[Vehicles|vehicles]] of all shapes and sizes, gaining the following benefits:
+
+* Increase your Dexterity score by 1, to a maximum of 20.  
+* You gain proficiency with all types of vehicles (land, water, and air).  
+* You can maintain control of a vehicle without having a free hand for the vehicle’s controls, though you must still be sitting in it.  
+* When you are driving a vehicle and your vehicle or anyone inside the vehicle is hit with an attack, you can use your reaction to add your proficiency bonus to the AC of the target against that attack, potentially causing it to miss.  
+* If a vehicle you are driving is subjected to an effect that allows it to make a Dexterity save to take only half damage, it takes no damage if it succeeds and only half damage if it fails.

@@ -10,7 +10,6 @@ Each tool has a typically associated ability, though these are not the only abil
 | :---- | :---- | :---- | :---- |
 | *Artisan's Tools* |  |  |  |
 |   Electrician's Tools | 4000 cp | 5 lbs | INT |
-|   Plumber's Tools | 1000 cp | 6 lbs | STR |
 |   Mechanic's Tools | 2000 cp | 10 lbs | STR |
 |   Roboticist's Tools | 5000 cp | 8 lbs | INT |
 |   Geneticist's Supplies | 5000 cp | 9 lbs | INT |

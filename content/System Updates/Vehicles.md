@@ -31,7 +31,7 @@ Proficiency with vehicles is a tool proficiency, split into three types: **vehic
 You can gain vehicle proficiencies from the following sources:
 
 - **Backgrounds.** The [[Cop]], [[Military]], [[Nomad]], [[Street Punk]], and [[Technician]] [[System Updates/Backgrounds/index|backgrounds]] grant proficiency with one or more vehicle types.
-- **Feats.** The [[Feats#Getaway Driver|Getaway Driver]] feat grants proficiency with all vehicles. Any feat that grants a tool proficiency, such as Skilled or Prodigy, can be used to gain a vehicle proficiency.
+- **Feats.** The [[Feats#Vehicle Ace|Vehicle Ace]] feat grants proficiency with all vehicles. Any feat that grants a tool proficiency, such as Skilled or Prodigy, can be used to gain a vehicle proficiency.
 - **Training.** During downtime, you can learn one vehicle proficiency from an instructor, such as a driving school, a flight school, or a willing mentor. Training takes 10 workweeks, reduced by a number of workweeks equal to your Intelligence modifier (an Intelligence penalty doesn't increase the time), and costs 2,500 cp per workweek.
 
 ### Skills

@@ -14,3 +14,9 @@ The Selesnya District (named after the wood elf ranger Silvana Selesnya) is the 
 Selesnya feels quieter than the rest of Zeal City. Tree-lined roads and stretches of protected green offer a break from concrete and traffic, though the parks are managed spaces with gates, staff, and rules. Residents and visitors come to walk, exercise, see wildlife, or spend a few hours somewhere the skyline does not fill the whole view. Across the water, the city's noise is still there—just softened.
 
 The Fey Crossing is a guarded boundary within this preserved landscape. Most days it is closed and still, but its history draws curious visitors, Fey residents, and people who would rather the crossing stay forgotten. The parks are also vulnerable: poachers target rare animals, and conservation workers must balance public access with protection. Selesnya is a refuge, but it is not untouched nature; the city is always deciding what gets protected and who gets to enter.
+
+## Landmarks
+
+- **The Selesnya Fey Crossing** is a closed portal within the island's protected landscape. It is heavily guarded, and on rare evenings its surface shimmers at dusk.
+- **The wildlife preserves** cover much of the island and protect some of the few remaining pockets of natural habitat near the city. Access is controlled to limit disturbance and deter poachers.
+- **The Parks Department headquarters** oversees the preserves and maintains smaller public parks throughout Zeal City. Its work connects Selesnya's large protected spaces with the green refuges scattered across the urban districts.

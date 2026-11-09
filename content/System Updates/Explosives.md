@@ -14,14 +14,16 @@ Explosives are inert until they are armed.
 
 | Name | Cost (Tier 1) | Cost (Tier 2) | Cost (Tier 3) | Weight |
 | :---- | :---- | :---- | :---- | :---- |
-| Claymore | 4000 cp | 20,000 cp | 100,000 cp | 3 lbs |
-| EMP Grenade | 3000 cp | 15,000 cp | 75,000 cp | 1 lb |
-| Flashbang | 2000 cp | 10,000 cp | 50,000 cp | 1 lb |
-| Fragmentation Grenade | 2500 cp | 12,500 cp | 62,500 cp | 1 lb |
-| Napalm Grenade | 3000 cp | 15,000 cp | 75,000 cp | 1 lb |
-| Smoke Bomb | 2000 cp | - | - | 1 lb |
-| Spellbreaker Grenade | 4000 cp | 20,000 cp | 100,000 cp | 1 lb |
-| Tear Gas | 3000 cp | 15,000 cp | - | 1 lb |
+| Claymore | 1,500 cp | 7,500 cp | 37,500 cp | 3 lbs |
+| EMP Grenade | 1,000 cp | 5,000 cp | 25,000 cp | 1 lb |
+| Flashbang | 750 cp | 4,000 cp | 20,000 cp | 1 lb |
+| Fragmentation Grenade | 1,000 cp | 5,000 cp | 25,000 cp | 1 lb |
+| Napalm Grenade | 1,500 cp | 7,500 cp | 37,500 cp | 1 lb |
+| Pipe Bomb | 1,000 cp | 5,000 cp | 25,000 cp | 2 lbs |
+| Plastic Explosive | 8,000 cp | 40,000 cp | 200,000 cp | 2 lbs |
+| Smoke Bomb | 500 cp | - | - | 1 lb |
+| Spellbreaker Grenade | 2,000 cp | 10,000 cp | 50,000 cp | 1 lb |
+| Tear Gas | 1,000 cp | 5,000 cp | - | 1 lb |
 
 ## Claymore
 
@@ -88,6 +90,38 @@ The initial damage, the burning damage, and the saving throw DC are determined b
 | 1 | 13 | 3d6 fire | 1d6 fire |
 | 2 | 15 | 6d6 fire | 2d6 fire |
 | 3 | 17 | 9d6 fire | 3d6 fire |
+
+## Pipe Bomb
+
+High explosives are compressed and packed into a steel pipe, designed to unleash devastation on the surrounding area. Crude but effective, pipe bombs are a favorite of street gangs and saboteurs.
+
+As an action, you can light a pipe bomb and throw it to a point within 60 feet of you, where it explodes in a 10-foot-radius sphere. Each target in the area must make a Dexterity saving throw, taking damage on a failed save, or half as much on a successful one. The pipe bomb deals double damage to objects, [[Vehicles|vehicles]], and structures. This doubling is applied before comparing the damage to a vehicle's damage threshold.
+
+Alternatively, over the course of 1 minute, you can rig a fuse to make the pipe bomb explode after a set amount of time, up to 10 minutes.
+
+The damage and the saving throw DC are determined by the tier of the bomb, as shown in the table below.
+
+| Tier | DC | Damage |
+| :---- | :---- | :---- |
+| 1 | 14 | 1d6 piercing + 2d6 thunder |
+| 2 | 16 | 2d6 piercing + 4d6 thunder |
+| 3 | 18 | 3d6 piercing + 6d6 thunder |
+
+## Plastic Explosive
+
+These highly stable, moldable, and adhesive explosive compounds are military grade, and are used for breaching walls, sabotaging machinery, and anything else that needs to be very thoroughly destroyed.
+
+Over the course of 1 minute, a creature can plant and arm a plastic explosive. Plastic explosives include a timed trigger that can be set up to a week in advance. Alternatively, a [[Gear|Wireless Transceiver]] can be attached to the explosive and connected to a smartphone or similar device, allowing the explosive to be triggered wirelessly as an action. A wireless trigger doesn't work while wireless and radio connections are suppressed, such as by an [[#EMP Grenade|EMP Grenade]]. An armed plastic explosive can be disarmed by the creature who armed it, or by another creature with a successful Demolitionist's Toolkit check against the explosive's DC.
+
+When the trigger is activated, the explosive detonates in a 40-foot-radius sphere. Each target in the area must make a Dexterity saving throw. On a failed save, a target takes thunder damage, and a creature is knocked prone. On a successful save, a target takes half as much damage, and a creature isn't knocked prone. The plastic explosive deals double damage to objects, [[Vehicles|vehicles]], and structures. This doubling is applied before comparing the damage to a vehicle's damage threshold.
+
+The damage and the saving throw DC are determined by the tier of the explosive, as shown in the table below.
+
+| Tier | DC | Damage |
+| :---- | :---- | :---- |
+| 1 | 14 | 8d6 thunder |
+| 2 | 16 | 14d6 thunder |
+| 3 | 18 | 20d6 thunder |
 
 ## Smoke Bomb
 

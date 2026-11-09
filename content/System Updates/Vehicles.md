@@ -52,9 +52,9 @@ As with mounted combat, the vehicle shares initiative with the driver, and the v
 
 ### Armor Class and Hit Points
 
-Each vehicle has an Armor Class and Hit Points, just like all creatures, and can be targeted by attacks. However, the construction of a vehicle gives it some durability against damage, represented by a **damage threshold** (see the Vehicles Table). A vehicle is immune to damage from a single attack or effect unless that damage equals or exceeds its damage threshold, in which case it takes the full damage as normal. Resistance and vulnerability are applied before comparing the damage to the threshold. Furthermore, all vehicles are immune to poison and psychic damage, and have resistance to piercing and slashing damage.
+Each vehicle has an Armor Class and Hit Points, just like all creatures, and can be targeted by attacks. However, the construction of a vehicle gives it some durability against damage, represented by a **damage threshold** (see the [[Vehicle List#Vehicles Table|Vehicles Table]]). A vehicle is immune to damage from a single attack or effect unless that damage equals or exceeds its damage threshold, in which case it takes the full damage as normal. Resistance and vulnerability are applied before comparing the damage to the threshold. Furthermore, all vehicles are immune to poison and psychic damage, and have resistance to piercing and slashing damage.
 
-When a vehicle's hit points reach 0, it explodes. When the vehicle explodes, all creatures within 10 ft of the vehicle must make a Dexterity Saving throw against the vehicle's **Crash DC**, taking the vehicle's **explosion damage** on a failure, or half on success. These numbers can be found in the Vehicles Table. The vehicle can no longer be used if it has 0 hit points until it is repaired at a shop.
+When a vehicle's hit points reach 0, it explodes. When the vehicle explodes, all creatures within 10 ft of the vehicle must make a Dexterity Saving throw against the vehicle's **Crash DC**, taking the vehicle's **explosion damage** on a failure, or half on success. These numbers can be found in the [[Vehicle List#Vehicles Table|Vehicles Table]]. The vehicle can no longer be used if it has 0 hit points until it is repaired at a shop.
 
 ### Damage to Riders
 
@@ -81,63 +81,29 @@ All vehicles have seat belts installed for each seat. As a bonus action, a creat
 Vehicle speeds and statistics given are for combat in smaller spaces, and so vehicles won't be able to accelerate to their full speed. However, there are times when all vehicles have accelerated to a similar average speed in the same direction, resulting in a **high-speed chase**. Special rules apply to high-speed chase combats.
 
 1. Vehicles cannot take the Dash action unless the driver uses their action to let it do so. If the vehicle is Dashing, all targets that the vehicle attempts to crash into on its turn have disadvantage on their saving throws to avoid crashing, but the vehicle has disadvantage on Dexterity saving throws against [[#Road Hazards|road hazards]] until the start of the driver's next turn.  
-2. When a combatant in a high-speed chase tries to use an item or a spell that causes an area of effect outside of their vehicle that does not have a target of self, a creature, or an object, they must make a DC 13 ability check using either their Dexterity modifier (if using an item) or their spellcasting modifier (if using a spell). On a failure, they roll a d4, and the target becomes a random point a number of feet away from the original target equal to 5 times the number rolled.  
-3. A spell or effect that stays in one place, such as Spiritual Weapon or Entangle, will remain in place until the end of the turn it is applied, and then is immediately left behind as the chase continues.  
+2. A spell or effect that is anchored to a point, such as Entangle, Spike Growth, or Wall of Force, remains in place until the start of its creator's next turn, and is then left behind as the chase continues. If the effect requires concentration, the concentration ends when it is left behind. An effect that is centered on a creature or vehicle, such as Spirit Guardians, moves with it as normal. An effect that its creator can move, such as Spiritual Weapon or Flaming Sphere, keeps pace with the chase as long as its creator moves it on each of their turns; otherwise, it is left behind at the start of its creator's next turn.  
+3. When a vehicle would enter, collide with, or be enclosed by a spell or effect that is anchored to a point and was created during the chase, such as Wall of Force, Wall of Stone, or Forcecage, the vehicle makes a DC 13 Dexterity saving throw. On a success, the driver swerves around the effect, and the vehicle can move past it as if it weren't there. On a failure, the effect applies to the vehicle and its riders normally.  
 4. All vehicles have advantage on ability checks and saving throws against effects that would restrain them.  
 5. If you fall out of a vehicle during a chase, you automatically take 1d4 bludgeoning damage for every 10ft of the vehicle's speed and are knocked prone. You are also removed from combat, as the chase has immediately left you behind.
 
+#### Chase Grid
+
+Vehicles cover a lot of ground in a high-speed chase, so chases are played on a grid of **10-foot squares** instead of 5-foot squares. If some combatants aren't in vehicles, use the normal 5-foot grid instead. The following rules apply on a chase grid:
+
+- **Space.** A Large or smaller vehicle occupies one square, and a Huge or Gargantuan vehicle occupies a 2-by-2 area of squares. Only one vehicle can occupy a square.
+- **Rounding.** Any distance that isn't a multiple of 10 feet, such as a weapon's reach, a spell's area of effect, or the distance a creature is pushed, rounds up to the next multiple of 10 feet. When a vehicle's speed is halved, it rounds down to the nearest multiple of 10 feet instead.
+- **Melee Attacks.** Any creature can make melee attacks against creatures and vehicles in adjacent squares, regardless of its weapon's reach.
+- **Reach Weapons.** When you make a melee attack with a weapon that has the reach property, the target's cover from a vehicle is reduced by one degree: three-quarters cover becomes half cover, and half cover becomes no cover.
+
 #### Road Hazards
 
-At the start of each round of a high-speed chase, the DM can roll on the following table to determine a road hazard. The hazard affects every vehicle in the chase, and each driver resolves it at the start of their turn. The vehicle makes the listed ability check or saving throw (see [[#Skills]]), unless the hazard targets the driver. Damage from a road hazard is bludgeoning damage dealt to the vehicle, and riders take half the damage the vehicle takes, as with [[#Crashing|crashing]].
+During a high-speed chase, the road itself can be as dangerous as anyone chasing you. The DM may call for a vehicle to make an ability check or saving throw (see [[#Skills]]) to deal with a **road hazard**. A vehicle that fails might take bludgeoning damage, slow down, spin out, or crash, and its riders take half the damage the vehicle takes, as with [[#Crashing|crashing]]. Some examples of road hazards and the checks they might call for:
 
-| d20 | Hazard | Check or Save | On a Failure |
-| :---- | :---- | :---- | :---- |
-| 1-5 | **Clear Road.** Nothing in the way. Floor it. | -- | No hazard. |
-| 6 | **Potholes.** A stretch of cracked, cratered asphalt. | Dexterity (Acrobatics) DC 10 | The vehicle's speed is halved until the end of the turn. |
-| 7 | **Loose Debris.** Trash, crates, or scrap metal scattered across the lanes. | Dexterity saving throw DC 12 | The vehicle takes 3d6 bludgeoning damage. |
-| 8 | **Oil Slick.** A spill or rain-slicked pavement under the neon. | Dexterity saving throw DC 13 | The vehicle spins out, and its speed becomes 0 until the end of the turn. |
-| 9 | **Hairpin Turn.** The road bends hard without warning. | Dexterity (Acrobatics) DC 13 | The vehicle clips the barrier, taking 4d6 bludgeoning damage, and its speed is halved until the end of the turn. |
-| 10 | **Cross Traffic.** A truck pulls into the intersection. | Dexterity saving throw DC 13 | The vehicle crashes into a Large vehicle (see [[#Crashing]]). |
-| 11 | **Crowded Sidewalk.** Pedestrians spill into the street. | Dexterity (Acrobatics) DC 12 | The driver chooses to either swerve into a wall, causing the vehicle to take 4d6 bludgeoning damage, or plow through, with consequences determined by the DM. |
-| 12 | **Construction Zone.** Cones, barriers, and a single open lane. | Dexterity (Acrobatics) DC 14 | The vehicle takes 3d6 bludgeoning damage and can't Dash this turn. |
-| 13 | **Flooded Street.** A burst main or an overflowing storm drain. | Strength (Athletics) DC 12 | The vehicle's speed is halved until the end of the driver's next turn. |
-| 14 | **Steam Vent.** A cloud of steam bursts from the street. | -- | The area is heavily obscured until the end of the turn. Attack rolls made by or against creatures in vehicles have disadvantage. |
-| 15 | **Neon Glare.** A massive holo-billboard flares in the driver's eyes. | Driver's Constitution saving throw DC 12 | The driver is blinded until the end of their turn, and the vehicle has disadvantage on ability checks during that time. |
-| 16 | **Tram Crossing.** An elevated train or tram cuts across the road. | Dexterity saving throw DC 14 | The vehicle crashes into a Huge object (see [[#Crashing]]). |
-| 17 | **Gap in the Road.** A collapsed overpass or an open drawbridge. | Strength (Athletics) DC 14 | The vehicle comes up short and falls 20 feet, taking falling damage. |
-| 18 | **Security Checkpoint.** A barricade blocks the road. | Strength (Athletics) DC 15 to ram through, or Dexterity (Acrobatics) DC 15 to swerve around | The vehicle crashes into the barricade, which is treated as a Huge object (see [[#Crashing]]). |
-| 19 | **Narrow Alley.** The only way forward is barely wide enough. | Dexterity (Acrobatics) DC 13; Huge and Gargantuan vehicles automatically fail | The vehicle takes 2d6 bludgeoning damage from scraping the walls. Riders in an uncovered vehicle also take this damage. |
-| 20 | **Shortcut!** A gap in traffic or a hidden side street. | Dexterity (Acrobatics) DC 13 | No effect. On a success, the vehicle can Dash this turn without the driver using their action. |
-
-This table is meant for chases on land. For chases on water or in the air, the DM can substitute hazards that fit the environment.
-
-## Vehicles Table
-
-### Land Vehicles
-
-| Name | Price (cp) | Size | STR | DEX | CON | Covered | Seat Capacity | Speed | AC | HP | Damage Threshold | Crash DC | Explosion Damage | Cargo Capacity |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Motorcycle | 7,500 | Medium | 12 (+1) | 16 (+3) | 12 (+1) | No | 1 | 65 ft | 13 | 50 | 5 | 11 | 3d6 fire | 200 lbs |
-| Car | 15,000 | Large | 16 (+3) | 12 (+1) | 14 (+2) | Yes | 5 | 60 ft | 14 | 60 | 10 | 13 | 4d6 fire | 500 lbs |
-| Van | 25,000 | Large | 17 (+3) | 10 (+0) | 15 (+2) | Yes | 9 | 55 ft | 14 | 60 | 10 | 13 | 5d6 fire | 1000 lbs |
-| Truck | 20,000 | Large | 19 (+4) | 9 (-1) | 16 (+3) | Yes | 3 | 60 ft | 14 | 60 | 15 | 13 | 4d6 fire | 2000 lbs |
-| Bus | 800,000 | Gargantuan | 22 (+6) | 6 (-2) | 18 (+4) | Yes | 50 | 45 ft | 14 | 100 | 15 | 14 | 8d6 fire | 10,000 lbs |
-
-### Water Vehicles
-
-| Name | Price (cp) | Size | STR | DEX | CON | Covered | Seat Capacity | Speed | AC | HP | Damage Threshold | Crash DC | Explosion Damage | Cargo Capacity |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Jet Ski | 10,000 | Medium | 10 (+0) | 16 (+3) | 10 (+0) | No | 1 | 0 ft, swim 55 ft | 13 | 30 | 5 | 11 | 2d6 fire | 100 lbs |
-| Motorboat | 25,000 | Large | 14 (+2) | 12 (+1) | 13 (+1) | Yes | 5 | 0 ft, swim 50 ft | 14 | 60 | 10 | 13 | 4d6 fire | 500 lbs |
-| Cruiser | 1,000,000 | Huge | 20 (+5) | 8 (-1) | 17 (+3) | Yes | 9 | 0 ft, swim 45 ft | 14 | 135 | 15 | 14 | 5d6 fire | 1000 lbs |
-
-### Air Vehicles
-
-| Name | Price (cp) | Size | STR | DEX | CON | Covered | Seat Capacity | Speed | AC | HP | Damage Threshold | Crash DC | Explosion Damage | Cargo Capacity |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Helicopter | 12,000,000 | Large | 14 (+2) | 14 (+2) | 13 (+1) | Yes | 6 | 0 ft, fly 75 ft | 14 | 75 | 10 | 13 | 4d6 fire | 200 lbs |
-| Small Jet | 32,000,000 | Gargantuan | 20 (+5) | 12 (+1) | 17 (+3) | Yes | 12 | 70 ft, fly 180 ft | 16 | 180 | 20 | 14 | 8d6 fire | 5000 lbs |
-| Floatplane | 22,000,000 | Huge | 16 (+3) | 10 (+0) | 15 (+2) | Yes | 7 | 0 ft, fly 90 ft | 14 | 155 | 15 | 14 | 6d6 fire | 2000 lbs |
+- **Debris, potholes, or an oil slick:** a Dexterity saving throw to keep control.
+- **A hairpin turn, a construction zone, a narrow alley, or a crowded sidewalk:** a Dexterity (Acrobatics) check to maneuver through.
+- **Cross traffic or a tram crossing:** a Dexterity saving throw to avoid a crash.
+- **A flooded street, a gap in the road, or a barricade:** a Strength (Athletics) check to power through or jump it.
+- **Blinding neon glare:** a Constitution saving throw made by the driver.
 
 ## Modding a Vehicle
 
@@ -160,7 +126,7 @@ The maximum number of mods a vehicle can have depends on its size.
 
 ### List of Mods
 
-Almost every vehicle encountered in the cyberpunk world is a vehicle from the [[#Vehicles Table]] with some variety of mods. Unless a mod says otherwise, a vehicle can't have more than one of the same mod.
+Almost every vehicle encountered in the cyberpunk world is a vehicle from the [[Vehicle List#Vehicles Table|Vehicles Table]] with some variety of mods. Unless a mod says otherwise, a vehicle can't have more than one of the same mod.
 
 The prices below are for Medium and Large vehicles. Prices are doubled for Huge vehicles and quadrupled for Gargantuan vehicles.
 

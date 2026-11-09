@@ -10,13 +10,11 @@ Your hacking skills have become instinctual to the point that you're able to bre
 
 * Increase your Intelligence score by 1, to a maximum of 20.  
 * **RAM.** You have a number of RAM points equal to your proficiency bonus. You regain all expended RAM when you finish a short or long rest.  
-* **Quickhacks.** While you have Hacker's Tools and a [[Gear|Wireless Transceiver]], you can use a bonus action and spend 1 RAM to quickhack a humanoid or construct you can see within 60 feet of you. The target must make a Constitution saving throw (DC equals 8 + your proficiency bonus + your Intelligence modifier). Constructs with the Electronics feature have disadvantage on this saving throw. On a failed save, choose one of the following effects:  
+* **Quickhacks.** While you have Hacker's Tools and a [[Gear|Wireless Transceiver]], you can use a bonus action and spend 1 RAM to quickhack a humanoid or construct you can see within 60 feet of you. The target must make a Constitution saving throw (DC equals 8 + your proficiency bonus + your Intelligence modifier). Constructs with the Electronics feature have disadvantage on this saving throw. Choose one of the following effects before the target makes its saving throw. On a failed save, the target suffers that effect:  
   * **Weapon Glitch.** The target has disadvantage on the next attack roll it makes before the end of its next turn.  
   * **Reboot Optics.** The target is blinded until the end of its next turn.  
-  * **Cripple Movement.** The target's speed is reduced to 0 until the end of its next turn.  
+  * **Cripple Movement.** The target's speed is halved until the end of its next turn.  
   * **Short Circuit.** The target takes lightning damage equal to 2d6 + your Intelligence modifier. On a successful save, the target takes half as much damage instead.  
-* **Ping.** While you have Hacker's Tools and a Wireless Transceiver, you can use a bonus action to learn the location of each humanoid and construct within 60 feet of you, even through walls, until the end of your turn.  
-* **Netgunner.** When you hit a humanoid or construct with a ranged attack (including a ranged spell attack) while you have Hacker's Tools and a Wireless Transceiver, you can spend 1 RAM to quickhack it as part of the hit, without using your bonus action.
 
 ## Cyberman
 
@@ -34,6 +32,15 @@ You are a master at making things explode. You gain the following benefits:
 * When you use or arm an [[Explosives|explosive]], you may add your proficiency bonus to all saving throw DCs of that explosive.  
 * You gain the ability to quickly craft effective explosives. If you have a Demolitionist's Toolkit on hand during a short or long rest, you may craft one explosive up to a maximum tier of half your proficiency bonus (rounded down) by spending one hour crafting. This explosive is makeshift and will not work 24 hours after being completed, and this explosive cannot be sold.
 
+## Gearhead
+
+*Prerequisite: Proficiency with [[Tools|Mechanic's Tools]]*  
+You know engines inside and out, and you can keep a ride running on little more than spare parts and stubbornness. You gain the following benefits:
+
+* Increase your Strength or Intelligence score by 1, to a maximum of 20.  
+* When you install a [[Vehicles#Modding a Vehicle|mod]] on a vehicle, the mod's price is reduced by 25%. In addition, when you make a Mechanic's Tools check to install mods, you can install at least one mod that day, regardless of the result.  
+* **Field Repair.** During a short rest, you can spend at least 1 hour working on a vehicle with Mechanic's Tools. At the end of the rest, the vehicle regains a number of hit points equal to 2d8 + your character level. This can't restore hit points to a vehicle that has 0 hit points.
+
 ## Gunslinger
 
 *This feat replaces the Gunner feat from Tasha's Cauldron of Everything.*
@@ -50,9 +57,26 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 *Prerequisite: Proficiency with Roboticist's Tools*  
 Your skills with robotics are unparalleled, to the point where you are able to easily control multiple [[Drones|drones]] to aid your work. You gain the following benefits:
 
-* You can link up to two drones to a single [[Gear|Remote Controller]] at once. This increases to three drones when you reach 11th level.  
+* You can link up to two drones to a single [[Gear|Remote Controller]] at once. This increases to three drones if your Intelligence score is 17 or higher.  
 * As a bonus action, you can use your Remote Controller to command one linked drone. Alternatively, you can use it as an action to command each linked drone. You can't do both on the same turn. If you have a class feature that commands a companion as a bonus action (such as a Beast Master Ranger or a Battle Smith Artificer), you can command a drone as part of the same bonus action you use to command your companion.  
 * Drones linked to your Remote Controller add your proficiency bonus to their AC and attack rolls, and their hit point maximum increases by twice your character level.
+
+## Ripperdoc
+
+*Prerequisite: Proficiency with a [[System Updates/Cyberware/index#Installing Cyberware|Cybersurgery Kit]]*  
+You've spent enough time elbow-deep in other people's chrome to work as a back-alley surgeon in your own right. You gain the following benefits:
+
+* Increase your Intelligence or Wisdom score by 1, to a maximum of 20.  
+* When you install or extract [[System Updates/Cyberware/index|cyberware]] using a Cybersurgery Kit, you don't need to make the tool check if the cyberware's tier is no higher than half your proficiency bonus (rounded down).  
+* **Field Patch.** As an action, you can spend one use of a [[Gear|First-Aid Kit]] to tend to a creature within 5 feet of you. The creature regains hit points equal to 1d6 + 4 + the number of cyberware it has installed. The creature can't regain hit points from this feat again until it finishes a short or long rest.
+
+## Rockstar
+
+*Prerequisite: Proficiency with a [[Tools|musical instrument]]*  
+Your music doesn't just entertain a crowd; it moves them, hypes them up, and makes them ready to burn the city down. You gain the following benefits:
+
+* **Encore.** You can spend 10 minutes performing with a musical instrument you are proficient with. When you do, choose up to six friendly creatures (which can include yourself) within 30 feet of you that heard the entire performance. Each creature gains temporary hit points equal to your character level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it finishes a short or long rest.  
+* **Stage Presence.** You have advantage on Charisma (Performance) checks made while playing a musical instrument you are proficient with. You also have advantage on Charisma (Persuasion) checks against creatures that watched you perform within the last hour.
 
 ## Street Samurai
 

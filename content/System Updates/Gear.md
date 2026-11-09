@@ -51,6 +51,15 @@ You have advantage on saving throws caused by attacks which would make you poiso
 **Magi-Cuffs.** This set of dull metallic handcuffs have faint runes which trace the chains and cuffs. They respond to the presence of magic by releasing a powerful electric current.  
 If these cuffs are used to bind a creature, and the creature casts a spell using verbal, somatic, or material components, the cuffs shock the creature for 8d8 lightning damage, and the creature must succeed on a DC 18 Constitution saving throw to see if they can continue casting the spell. A creature reduced to 0 hit points by this damage is stable.
 
+**Med Serum.** A single-use injector pen filled with a cocktail of coagulants, stimulants, and tissue-regenerating nanites that seals wounds and keeps a body moving. Med serums aren't magical; they're the product of cutting-edge medical science, and the more expensive tiers contain more potent compounds. As an action, you can inject yourself or a willing creature within 5 feet of you with a med serum. The target regains hit points based on the serum's tier, as shown below. A med serum isn't a [[Drugs|drug]], so it doesn't affect dependency and can't cause an overdose. Med serums can be loaded into an [[Auto-Injector]].
+
+| Tier | Hit Points Regained |
+| :---- | :---- |
+| 1 | 2d4 + 2 |
+| 2 | 4d4 + 4 |
+| 3 | 8d4 + 8 |
+| 4 | 10d4 + 20 |
+
 **Metal Detector.** A small, hand-held device for detecting metal on creatures and in the ground. You can use this device to gain advantage on Intelligence (Investigation) checks to search for metal objects or equipment.
 
 **Night Vision Goggles.** As a bonus action, you can equip or unequip these night vision goggles. While wearing these goggles, you have darkvision out to a range of 60 feet, and you have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in bright light.
@@ -96,6 +105,10 @@ Any creature that can’t see the area at the time the spike strip is deployed m
 | Hazmat Suit | 2500 cp | 20 lbs |
 | Lighter | 3 cp | 0.2 lbs |
 | Magi-Cuffs | 12,500 cp | 1 lb |
+| Med Serum (Tier 1) | 2,000 cp | 0.1 lbs |
+| Med Serum (Tier 2) | 10,000 cp | 0.1 lbs |
+| Med Serum (Tier 3) | 50,000 cp | 0.1 lbs |
+| Med Serum (Tier 4) | 250,000 cp | 0.1 lbs |
 | Metal Detector | 1100 cp | 3 lbs |
 | Night Vision Goggles | 3000 cp | 1 lb |
 | Pepper Spray | 60 cp | 1 lb |

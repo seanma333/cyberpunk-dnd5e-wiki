@@ -80,7 +80,7 @@ Addiction is a disease of both body and mind. At the end of a 24-hour day, if a 
 
 ### Withdrawal
 
-Drugs taken carefully in moderation present little risk of side effects. However, when a person becomes more dependent on drugs, they will start to feel **withdrawal** if they have not gotten their fix. The number of doses of drugs required for a character to not face withdrawal at the end of a 24-hour day is called the **fix number**, and is equal to **half the character's dependency number (rounded down)**. If a character does not satisfy their fix number at the end of the 24 hours, they gain **one level of exhaustion**. If their dependency number is 5 or greater, they instead gain **two levels of exhaustion**.
+Drugs taken carefully in moderation present little risk of side effects. However, when a person becomes more dependent on drugs, they will start to feel **withdrawal** if they have not gotten their fix. The number of doses of drugs required for a character to not face withdrawal at the end of a 24-hour day is called the **fix number**, and is equal to **half the character's dependency number (rounded up)**. If a character does not satisfy their fix number at the end of the 24 hours, they gain **one level of exhaustion**. If their dependency number is 5 or greater, they instead gain **two levels of exhaustion**.
 
 ### Cold Turkey
 
@@ -93,5 +93,6 @@ Unless otherwise stated, the effects of drugs will stack with each other if thei
 ## See Also
 
 - [[Crime#Drug Trade|Drug Trade]]: the drug trade in Zeal City.
-- [[Auto-Injector]]: cyberware that stores drugs and injects them in combat.
+- [[Auto-Injector]]: cyberware that stores drugs and med serums and injects them in combat.
+- [[Gear|Med Serum]]: an injectable healing compound. It isn't a drug and doesn't affect dependency.
 - [[Immune System Booster]]: cyberware that makes you immune to the effects of drugs, unless you choose to let a drug affect you.

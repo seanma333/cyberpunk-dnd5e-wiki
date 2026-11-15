@@ -31,7 +31,7 @@ Typical features of a smartphone include:
 
 **Data Drive.** A small, concealable data storage device that can hold a surprisingly large amount of information.
 
-**Fire Extinguisher.** The extinguisher has 10 charges. As an action, 1 to 3 charges can be used to extinguish an equal number of burning creatures, objects, or [[Vehicles|vehicles]] within 10 feet. It can also extinguish a 5-foot area of fire.
+**Fire Extinguisher.** The extinguisher has 10 charges. As an action, 1 to 3 charges can be used to extinguish an equal number of [[Conditions#Burning|burning]] creatures, objects, or [[Vehicles|vehicles]] within 10 feet. It can also extinguish a 5-foot area of fire.
 
 **First-Aid Kit.** This kit is a small box containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 Hit Points, without needing to make a Wisdom (Medicine) check. **(Note: This replaces the Healer's Kit from Core D&D 5e. Any feature that uses a healer's kit, such as the Healer feat, works with a first-aid kit instead.)**
 
@@ -44,7 +44,7 @@ Typical features of a smartphone include:
 **Handcuffs.** These metal restraints can bind a Small or Medium creature. Escaping the handcuffs requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of handcuffs comes with one key. Without the key, a creature proficient with thieves' tools can pick the lock with a successful DC 15 Dexterity check. Handcuffs have 15 hit points. **(Note: These are lighter weight manacles from Core D&D 5e)**
 
 **Hazmat Suit.** This suit makes you immune to airborne and waterborne toxins, poisons, diseases, and radiation. It has its own internal air purifier, allowing the user to breathe in hazardous environments indefinitely. This suit also counts as wearing a thin sheet of lead. A small swarm of internal nanobots can quickly seal small punctures or cuts.  
-You have advantage on saving throws caused by attacks which would make you poisoned while wearing the suit. You cannot wear anything heavier than light armor under this suit, and it is difficult to speak to others while wearing this suit. You have disadvantage on Wisdom (Perception) and Dexterity checks while wearing the suit.
+You have advantage on saving throws caused by attacks which would make you poisoned or [[Conditions#Irradiated|irradiated]] while wearing the suit. You cannot wear anything heavier than light armor under this suit, and it is difficult to speak to others while wearing this suit. You have disadvantage on Wisdom (Perception) and Dexterity checks while wearing the suit.
 
 **Lighter.** This electric lighter can be used to start fires. It can also be used to shed bright light in a 5-foot radius and dim light for an additional 5 feet. The fuel lasts for 1 hour.
 

@@ -76,11 +76,11 @@ At the end of a 24-hour day, the following occurs.
 
 ### Addiction
 
-Addiction is a disease of both body and mind. At the end of a 24-hour day, if a character has consumed at least one dose of drugs, they must make both a **Constitution and a Wisdom saving throw**. The DC for both saving throws is **10 + the character's dependency number + the number of drug doses taken during the last 24 hours**. If they succeed at both saving throws, their Dependency Number remains unchanged. If they succeed at one saving throw and fail the other, their Dependency Number **increases by half the number of doses taken (rounded down)**. If they fail *both* saving throws, their Dependency Number **increases by the number of doses taken**.
+Addiction is a disease of both body and mind. At the end of a 24-hour day, if a character has consumed at least one dose of drugs, they must make both a **Constitution and a Wisdom saving throw**. The DC for both saving throws is **10 + the character's dependency number + the number of drug doses taken during the last 24 hours**. If they succeed at both saving throws, their Dependency Number remains unchanged. If they succeed at one saving throw and fail the other, their Dependency Number **increases by half the number of doses taken (rounded up)**. If they fail *both* saving throws, their Dependency Number **increases by the number of doses taken**.
 
 ### Withdrawal
 
-Drugs taken carefully in moderation present little risk of side effects. However, when a person becomes more dependent on drugs, they will start to feel **withdrawal** if they have not gotten their fix. The number of doses of drugs required for a character to not face withdrawal at the end of a 24-hour day is called the **fix number**, and is equal to **half the character's dependency number (rounded up)**. If a character does not satisfy their fix number at the end of the 24 hours, they gain **one level of exhaustion**. If their dependency number is 5 or greater, they instead gain **two levels of exhaustion**.
+Drugs taken carefully in moderation present little risk of side effects. However, when a person becomes more dependent on drugs, they will start to feel **withdrawal** if they have not gotten their fix. The number of doses of drugs required for a character to not face withdrawal at the end of a 24-hour day is called the **fix number**, and is equal to **half the character's dependency number (rounded down)**. If a character does not satisfy their fix number at the end of the 24 hours, they gain **one level of exhaustion**. If their dependency number is 5 or greater, they instead gain **two levels of exhaustion**.
 
 ### Cold Turkey
 

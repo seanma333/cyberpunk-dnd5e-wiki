@@ -24,6 +24,7 @@ With this blending of genres, the majority of character creation and play does n
 - [[Hacking]]
 - [[Explosives]]
 - [[Drugs]]
+- [[Conditions]]
 - [[Vehicles]]
   - [[Vehicle List]]
 - [[Drones]]

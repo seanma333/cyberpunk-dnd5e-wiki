@@ -128,3 +128,30 @@ In addition to the simple and martial weapon proficiencies, certain classes gain
 | Magnum            | 4000      | 2d8 piercing  | 6 lb.  | Bullets | Ammunition (range 60/240), heavy, reload (8)                                                        | 3             |
 | Pump Shotgun      | 3000      | 2d6 piercing  | 7 lb.  | Shells  | Ammunition (range 80/320), reload (10), scatter (2d8), two-handed, strength 11                      | 3             |
 | Sniper Rifle      | 10,000    | 2d8 piercing  | 8 lb.  | Bullets | Ammunition (range 200/800), heavy, reload (6), sighted, two-handed                                  | 3             |
+
+## Military Weapons
+
+Some weapons are restricted military hardware that isn't sold on the open market. These weapons can only be acquired at the DM's discretion, such as through black market contacts, faction rewards, or salvage from the people carrying them. They are martial firearms, but unlike other weapons, they can't take [[Weapon Upgrades|modifications]].
+
+| Weapon | Cost (cp) | Damage | Weight | Ammo | Properties |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Flamethrower | 10,000 | 2d6 fire | 25 lb. | Fuel | Ammunition (range 30/90), heavy, reload (3, action), two-handed, strength 13 (see below) |
+| Rocket Launcher | 15,000 | 3d6 piercing + 3d6 thunder | 20 lb. | Rockets (1,000 cp each) | Ammunition (range 120/480), heavy, reload (1, action), two-handed, strength 13 (see below) |
+
+### Flamethrower
+
+A tank of pressurized fuel feeds a nozzle that sprays a jet of sticky, burning liquid.
+
+When you hit a creature with an attack from the flamethrower, it gains one level of [[Conditions#Burning|burning]].
+
+Alternatively, once per turn when you take the Attack action, you can replace one of your attacks with a spray of fire in a 15-foot cone. Each creature in the cone must make a Dexterity saving throw (DC 8 + your proficiency bonus + your Dexterity or Strength modifier). On a failed save, a creature takes 2d6 fire damage and gains one level of burning. On a successful save, it takes half as much damage and doesn't gain a level of burning.
+
+Each attack or spray uses one shot of fuel.
+
+### Rocket Launcher
+
+A shoulder-fired tube that launches a self-propelled explosive rocket.
+
+When you hit a creature or object with an attack from the rocket launcher, the rocket explodes. Each other creature within 10 feet of the target must succeed on a Dexterity saving throw (DC 8 + your proficiency bonus + your Dexterity or Strength modifier) or take half as much damage as the target took. Full cover between the target and a creature protects that creature from the explosion.
+
+The rocket launcher deals double damage to objects, [[Vehicles|vehicles]], and structures, including damage from the explosion. This doubling is applied before comparing the damage to a vehicle's damage threshold.

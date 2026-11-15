@@ -81,15 +81,15 @@ The damage and the saving throw DC are determined by the tier of the grenade, as
 
 This black canister has orange marks tracing fluid ducts that will eject a highly flammable, sticky solution before igniting it in a burst of flame.
 
-As an action, you can throw the grenade to a point within 60 feet of you, where it explodes in a 10-foot-radius sphere. Each target in the area must make a Dexterity saving throw.The target takes fire damage on a failed save and begins burning, taking fire damage at the start of each of its turns. On a successful save, the target takes half as much damage and is not burning. A creature can take an action to end the burning on itself or an adjacent creature.
+As an action, you can throw the grenade to a point within 60 feet of you, where it explodes in a 10-foot-radius sphere. Each target in the area must make a Dexterity saving throw. On a failed save, the target takes fire damage and gains one or more levels of [[Conditions#Burning|burning]]. On a successful save, the target takes half as much damage and doesn't gain any levels of burning.
 
-The initial damage, the burning damage, and the saving throw DC are determined by the tier of the grenade, as shown in the Napalm Grenade table.
+The damage, the levels of burning, and the saving throw DC are determined by the tier of the grenade, as shown in the Napalm Grenade table.
 
-| Tier | DC | Initial Damage | Burning Damage |
+| Tier | DC | Damage | Levels of Burning |
 | :---- | :---- | :---- | :---- |
-| 1 | 13 | 3d6 fire | 1d6 fire |
-| 2 | 15 | 6d6 fire | 2d6 fire |
-| 3 | 17 | 9d6 fire | 3d6 fire |
+| 1 | 13 | 3d6 fire | 1 |
+| 2 | 15 | 6d6 fire | 2 |
+| 3 | 17 | 9d6 fire | 3 |
 
 ## Pipe Bomb
 

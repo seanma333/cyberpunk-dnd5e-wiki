@@ -27,6 +27,7 @@ The Black Lotus Triad follows a strict hierarchical structure rooted in the trad
 - **Red Pole (426)** — Military commander. Oversees the Triad's muscle and coordinates enforcement operations.
 - **White Paper Fan (415)** — Administrative and financial officer. Manages the books, bribes, and legitimate business fronts.
 - **Straw Sandal (432)** — Liaison and messenger. Maintains external relationships, including with fixers and Blue Lanterns.
+- **49s** — Initiated members who have sworn the Triad's oaths. The Triad's rank and file, answering to the Red Pole, and the ones who'll come knocking.
 - **Blue Lanterns** — Uninitiated associates. Skilled operators — lancers, fixers, specialists — who work in the Triad's interests without formal membership. Protected while useful. Cut loose without ceremony when they are not.
 
 ## Territory: Lantern Town

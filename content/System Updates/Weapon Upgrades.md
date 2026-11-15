@@ -14,13 +14,14 @@ A modification that requires a damage type (such as Arc Point, Mono-Edge, or Sie
 
 ### Attachments
 
-| Name                                      | Cost     | Requirements                                    |
-| :---------------------------------------- | :------- | :---------------------------------------------- |
-| [[#Bayonet\|Bayonet]]                     | 200 cp   | Firearm with the two-handed property            |
-| [[#Extended Magazine\|Extended Magazine]] | 1,000 cp | Firearm with a reload capacity of 5 or more     |
-| [[#Scope\|Scope]]                         | 200 cp   | Any ranged weapon                               |
-| [[#Silencer\|Silencer]]                   | 2,000 cp | Firearm without the Scatter or Mounted property |
-| [[#Sling\|Sling]]                         | 100 cp   | Any weapon                                      |
+| Name                                      | Cost     | Requirements                                              |
+| :---------------------------------------- | :------- | :-------------------------------------------------------- |
+| [[#Bayonet\|Bayonet]]                     | 200 cp   | Firearm with the two-handed property                      |
+| [[#Bipod\|Bipod]]                         | 500 cp   | Firearm with the heavy property or a Strength requirement |
+| [[#Extended Magazine\|Extended Magazine]] | 1,000 cp | Firearm with a reload capacity of 5 or more               |
+| [[#Scope\|Scope]]                         | 200 cp   | Any ranged weapon                                         |
+| [[#Silencer\|Silencer]]                   | 2,000 cp | Firearm without the Scatter or Mounted property           |
+| [[#Sling\|Sling]]                         | 100 cp   | Any weapon                                                |
 
 ### Modifications
 
@@ -32,8 +33,10 @@ A modification that requires a damage type (such as Arc Point, Mono-Edge, or Sie
 | [[#Collapsible Frame\|Collapsible Frame]]   | 5,000 cp       | Melee weapon without the heavy property              |
 | [[#Deadeye Stabilizer\|Deadeye Stabilizer]] | 15,000 cp      | Any ranged weapon                                    |
 | [[#High Impact Shots\|High Impact Shots]]   | 2x weapon cost | Firearm with a Strength requirement                  |
+| [[#Hypodermic Feed\|Hypodermic Feed]]       | 10,000 cp      | Hand crossbow or blowgun                             |
 | [[#Kinetic Piston\|Kinetic Piston]]         | 15,000 cp      | Melee weapon                                         |
 | [[#Lightweight Design\|Lightweight Design]] | 3x weapon cost | Any weapon                                           |
+| [[#Mag-Sling\|Mag-Sling]]                   | 10,000 cp      | Sling                                                |
 | [[#Magnetic Recall\|Magnetic Recall]]       | 5,000 cp       | Weapon with the thrown property                      |
 | [[#Mana Capacitor\|Mana Capacitor]]         | 40,000 cp      | Non-magical weapon                                   |
 | [[#Mobile Shot\|Mobile Shot]]               | 15,000 cp      | Ranged weapon without the two-handed property        |
@@ -74,6 +77,13 @@ While you are wielding this weapon and are proficient with it, when a creature y
 *Requirement: [[Weapons#Firearms|Firearm]] with the two-handed property*  
 As an action, you can attach or detach a bayonet to your firearm. A firearm with a bayonet functions as a dagger for melee attack purposes, including opportunity attacks. You must use two hands when you make an attack with this weapon.
 
+## Bipod
+
+*Requirement: [[Weapons#Firearms|Firearm]] with the heavy property or a Strength requirement*  
+As an action, you can attach or detach a bipod to your firearm. Its folding legs let you brace the weapon against the ground or a solid surface.
+
+If you haven't moved during this turn, you can use a bonus action to deploy the bipod against the ground or a solid surface next to you, such as a low wall or the hood of a car. Deploying the bipod reduces your speed to 0 until the end of the current turn. While the bipod is deployed, you ignore the weapon's heavy property and Strength requirement, being prone doesn't impose disadvantage on your attack rolls with the weapon, and the weapon counts as mounted for the purpose of the [[Weapons#Firearm Properties|Mounted]] property. The bipod folds up if you move, or are moved, out of the space where you deployed it.
+
 ## Bullet Storm
 
 *Requirement: Firearm with the automatic property*  
@@ -109,6 +119,15 @@ The weapon's firing power has been increased, allowing its targets to be blown b
 
 This extra power increases the recoil of the weapon and makes it more difficult to handle. The Strength requirement of the weapon is increased by 2.
 
+## Hypodermic Feed
+
+*Requirement: Hand crossbow or blowgun*  
+A pressurized reservoir and a feed of hollow-tipped needles let this weapon fire darts loaded with medicine, drugs, or poison.
+
+As a bonus action, you can load one dose of a [[Gear|med serum]], a [[Drugs|drug]], or an injury poison into the weapon. The next time you hit a creature with the weapon, the dose is injected into it in addition to the attack's normal effects.
+
+Alternatively, once per turn when you take the Attack action, you can replace one of your attacks to fire a loaded dart at a willing creature within the weapon's normal range. The dart hits automatically, deals no damage, and injects the dose.
+
 ## Kinetic Piston
 
 *Requirement: Melee weapon*  
@@ -122,6 +141,13 @@ Once per turn, when you hit a creature with a melee attack using this weapon, yo
 The weapon’s metal and wooden parts are replaced with plasteel, a tempered plastic. The weapon no longer sets off metal detectors and it is no longer affected by metal targeting effects. This weapon weighs half its normal weight and loses the heavy property if it had it. If the weapon didn't have the heavy property and is a melee weapon, it gains the finesse property.
 
 A weapon with a modification that requires the heavy property, such as [[#Ballistic Blade]] or [[#Momentum Flywheel]], can't also have Lightweight Design.
+
+## Mag-Sling
+
+*Requirement: Sling*  
+Magnetic coils woven into the sling's pouch accelerate each bullet to lethal speeds as it's released.
+
+The sling's damage die becomes 1d8 instead of 1d4, and its range becomes 60/240 feet.
 
 ## Magnetic Recall
 

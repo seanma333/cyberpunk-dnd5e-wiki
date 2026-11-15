@@ -24,6 +24,8 @@ The Lazuli Mafia follows a traditional hierarchical structure with one distincti
 The result is a family in perpetual, carefully managed tension. Capos are bound by blood to the Don but compete with each other in everything else — territory, resources, approval. Open conflict between siblings is forbidden. Quiet maneuvering is constant.
 
 - **Don** — *Lapis Lazuli*. Final authority on all matters. Rarely seen in public; his presence is felt in every Lazuli operation.
+- **Consigliere** — The Don's trusted advisor, traditionally someone from outside the family. Lapis keeps several advisors close to him, and which of them actually holds the title is not publicly known.
+- **Sottocapo (Underboss)** — The Don's second-in-command and presumed heir. The position has been vacant since the last Sottocapo, one of the Don's children, was killed during the [[Setting and Lore/The Five Houses/index#The Street War|Street War]]. Lapis has not named a replacement, and every one of his capos wants the title.
 - **Capos (Caporegimes)** — The Don's children. Each oversees a defined territory or operational area. The current number of active capos is not publicized.
 - **Soldiers** — Made members, bound by oath. The oath has teeth; the nature of those teeth is a matter of rumor.
 - **Associates** — Non-members who work with the family regularly. A reliable path to becoming a Soldier, for those who want it.

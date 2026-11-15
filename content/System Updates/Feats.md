@@ -58,7 +58,9 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 Your skills with robotics are unparalleled, to the point where you are able to easily control multiple [[Drones|drones]] to aid your work. You gain the following benefits:
 
 * You can link up to two drones to a single [[Gear|Remote Controller]] at once. This increases to three drones if your Intelligence score is 17 or higher.  
-* As a bonus action, you can use your Remote Controller to command one linked drone. Alternatively, you can use it as an action to command each linked drone. You can't do both on the same turn. If you have a class feature that commands a companion as a bonus action (such as a Beast Master Ranger or a Battle Smith Artificer), you can command a drone as part of the same bonus action you use to command your companion.  
+* As a bonus action, you can use your Remote Controller to command one linked drone. If you have a class feature that commands a companion as a bonus action (such as a Beast Master Ranger or a Battle Smith Artificer), you can command a drone as part of the same bonus action you use to command your companion.
+
+  Alternatively, you can use your Remote Controller as an action to command each linked drone; when you do, those drones add your proficiency bonus to their damage rolls until the end of your turn. You can't command drones with both an action and a bonus action on the same turn.  
 * Drones linked to your Remote Controller add your proficiency bonus to their AC and attack rolls, and their hit point maximum increases by twice your character level.
 
 ## Ripperdoc

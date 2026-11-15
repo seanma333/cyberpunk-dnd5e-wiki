@@ -125,7 +125,7 @@ In addition to the simple and martial weapon proficiencies, certain classes gain
 | Assault Rifle     | 3000      | 2d6 piercing  | 7 lb.  | Bullets | Ammunition (range 100/400), automatic, reload (20), two-handed                                      | 3             |
 | Gatling Gun       | 30,000    | 2d12 piercing | 85 lb. | Bullets | Ammunition (range 100/400), automatic, heavy, mounted, reload (40, action), two-handed, strength 15 | 3             |
 | Light Machine Gun | 12,000    | 2d10 piercing | 25 lb. | Bullets | Ammunition (range 100/400), automatic, heavy, reload (40, action), two-handed, strength 13          | 3             |
-| Magnum            | 4000      | 2d8 piercing  | 6 lb.  | Bullets | Ammunition (range 60/240), heavy, reload (8)                                                        | 3             |
+| Magnum            | 4000      | 2d8 piercing  | 6 lb.  | Bullets | Ammunition (range 60/240), reload (8)                                                               | 2             |
 | Pump Shotgun      | 3000      | 2d6 piercing  | 7 lb.  | Shells  | Ammunition (range 80/320), reload (10), scatter (2d8), two-handed, strength 11                      | 3             |
 | Sniper Rifle      | 10,000    | 2d8 piercing  | 8 lb.  | Bullets | Ammunition (range 200/800), heavy, reload (6), sighted, two-handed                                  | 3             |
 

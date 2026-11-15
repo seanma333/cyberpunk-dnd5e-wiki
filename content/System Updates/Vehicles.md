@@ -167,7 +167,7 @@ The vehicle's hit point maximum increases by half.
 
 A turbine driven by the exhaust forces extra air into the engine for more power and a higher top speed.
 
-All of the vehicle's speeds increase by 20 feet.
+Each of the vehicle's speeds that is higher than 0 feet increases by 20 feet.
 
 #### Weapon Mount
 

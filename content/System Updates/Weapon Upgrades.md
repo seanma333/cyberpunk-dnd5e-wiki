@@ -133,7 +133,9 @@ Immediately after you make a ranged attack by throwing this weapon, it flies bac
 ## Mana Capacitor
 
 *Requirement: Non-magical weapon*  
-This weapon has been fitted with an embedded residuum crystal which can store magic for longer than normal. When this weapon is the target of a *magic weapon*, *elemental weapon*, or *holy weapon* spell, the spell lasts for 8 hours instead of its normal duration and doesn't require concentration.
+This weapon has been fitted with an embedded residuum crystal which can store magic for longer than normal. As an action, a creature can touch the weapon and expend a spell slot of 1st level or higher to charge the capacitor. For the next 24 hours, the weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+Alternatively, when this weapon is the target of a *magic weapon*, *elemental weapon*, or *holy weapon* spell, the spell lasts for 24 hours instead of its normal duration and doesn't require concentration.
 
 A weapon with a Mana Capacitor cannot also have the [[#Spellbreaker]] modification.
 

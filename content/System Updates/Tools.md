@@ -6,21 +6,21 @@ Artisans and trades in the Cyberpunk world are very different from the ones in c
 
 Each tool has a typically associated ability, though these are not the only abilities to use with these tools.
 
-| Item | Cost | Weight | Associated Ability |
-| :---- | :---- | :---- | :---- |
-| Cybersurgery Kit | 6000 cp | 5 lbs | INT |
-| Hacker's Tools | 5000 cp | 3 lbs | INT |
-| *Artisan's Tools* |  |  |  |
-|   Electrician's Tools | 4000 cp | 5 lbs | INT |
-|   Mechanic's Tools | 2000 cp | 10 lbs | STR |
-|   Roboticist's Tools | 5000 cp | 8 lbs | INT |
-|   Geneticist's Supplies | 5000 cp | 9 lbs | INT |
-|   Demolitionist's Toolkit | 2500 cp | 2 lbs | DEX |
-| *Musical Instruments* |  |  |  |
-|   Guitar | 3000 cp | 7 lbs | CHA |
-|   Drum set | 5000 cp | 65 lbs | CHA |
-|   Synth Keyboard | 4000 cp | 20 lbs | CHA |
-| *Gaming Set* |  |  |  |
-|   Video Game set | 500 cp | 2 lbs | DEX |
+| Item                    | Cost    | Weight | Associated Ability |
+| :---------------------- | :------ | :----- | :----------------- |
+| Cybersurgery Kit        | 6000 cp | 5 lbs  | INT                |
+| Hacker's Tools          | 5000 cp | 3 lbs  | INT                |
+| *Artisan's Tools*       |         |        |                    |
+| Electrician's Tools     | 4000 cp | 5 lbs  | INT                |
+| Mechanic's Tools        | 2000 cp | 10 lbs | STR                |
+| Roboticist's Tools      | 5000 cp | 8 lbs  | INT                |
+| Geneticist's Supplies   | 5000 cp | 9 lbs  | INT                |
+| Demolitionist's Toolkit | 2500 cp | 2 lbs  | DEX                |
+| *Musical Instruments*   |         |        |                    |
+| Guitar                  | 3000 cp | 7 lbs  | CHA                |
+| Drum set                | 5000 cp | 65 lbs | CHA                |
+| Synth Keyboard          | 4000 cp | 20 lbs | CHA                |
+| *Gaming Set*            |         |        |                    |
+| Video Game set          | 500 cp  | 2 lbs  | DEX                |
 
 See [[Hacking]] for rules on using Hacker's Tools, and [[System Updates/Cyberware/index#Installing Cyberware|Installing Cyberware]] for the Cybersurgery Kit.

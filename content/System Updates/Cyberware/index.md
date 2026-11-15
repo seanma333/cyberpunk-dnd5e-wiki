@@ -35,32 +35,32 @@ Some cyberware have multiple tiers, indicating more advanced technology for high
 
 ## Cyberware List
 
-| Name | Cost (Tier 1) | Cost (Tier 2) | Cost (Tier 3) | Cost (Tier 4) |
-| :---- | :---- | :---- | :---- | :---- |
-| [[Auto-Injector]] | 15,000 cp | -- | -- | -- |
-| [[Bone Lacing]] | 35,000 cp | -- | 875,000 cp | -- |
-| [[Chameleon Skin]] | -- | 200,000 cp | 1,000,000 cp | 5,000,000 cp |
-| [[Cyberarms]] | 35,000 cp | 175,000 cp | 875,000 cp | 4,375,000 cp |
-| [[Cyberclaws]] | 35,000 cp | 175,000 cp | 875,000 cp | 4,375,000 cp |
-| [[Dermal Barrier]] | -- | 200,000 cp | 1,000,000 cp | -- |
-| [[Elastic Joints]] | -- | 150,000 cp | -- | -- |
-| [[EMP Projector]] | -- | 150,000 cp | -- | -- |
-| [[Encephalon]] | 35,000 cp | -- | 875,000 cp | -- |
-| [[Hologram Projector]] | -- | 125,000 cp | -- | -- |
-| [[Hydraulic Jacks]] | 30,000 cp | 150,000 cp | 750,000 cp | -- |
-| [[Immune System Booster]] | 30,000 cp | -- | -- | -- |
-| [[Integrated Grapple Gun]] | 25,000 cp | -- | -- | -- |
-| [[Internal Battery]] | -- | 175,000 cp | 875,000 cp | -- |
-| [[Jet Boosters]] | -- | 175,000 cp | 875,000 cp | -- |
-| [[Laser Designator]] | 25,000 cp | -- | -- | -- |
-| [[Limbic Regulator]] | 35,000 cp | -- | 875,000 cp | -- |
-| [[Muscle Reinforcement]] | 35,000 cp | -- | 875,000 cp | -- |
-| [[Neural Burst]] | -- | -- | -- | 5,000,000 cp |
-| [[Platelet Factory]] | 35,000 cp | -- | 875,000 cp | -- |
-| [[Sensory Enhancement]] | 25,000 cp | 125,000 cp | 625,000 cp | 3,125,000 cp |
-| [[Smartgun Augment]] | 15,000 cp | -- | -- | -- |
-| [[Subdermal Plating]] | 40,000 cp | 200,000 cp | 1,000,000 cp | -- |
-| [[Suprathyroid]] | -- | -- | -- | 5,000,000 cp |
-| [[Tailored Pheromones]] | 35,000 cp | -- | 875,000 cp | -- |
-| [[Warp Cortex]] | -- | -- | 875,000 cp | -- |
-| [[Wired Reflexes]] | 35,000 cp | -- | 875,000 cp | -- |
+| Name                       | Cost (Tier 1) | Cost (Tier 2) | Cost (Tier 3) | Cost (Tier 4) |
+| :------------------------- | :------------ | :------------ | :------------ | :------------ |
+| [[Auto-Injector]]          | 15,000 cp     | --            | --            | --            |
+| [[Bone Lacing]]            | 35,000 cp     | --            | 875,000 cp    | --            |
+| [[Chameleon Skin]]         | --            | 200,000 cp    | 1,000,000 cp  | 5,000,000 cp  |
+| [[Cyberarms]]              | 35,000 cp     | 175,000 cp    | 875,000 cp    | 4,375,000 cp  |
+| [[Cyberclaws]]             | 35,000 cp     | 175,000 cp    | 875,000 cp    | 4,375,000 cp  |
+| [[Dermal Barrier]]         | --            | 200,000 cp    | 1,000,000 cp  | --            |
+| [[Elastic Joints]]         | --            | 150,000 cp    | --            | --            |
+| [[EMP Projector]]          | --            | 150,000 cp    | --            | --            |
+| [[Encephalon]]             | 35,000 cp     | --            | 875,000 cp    | --            |
+| [[Hologram Projector]]     | --            | 125,000 cp    | --            | --            |
+| [[Hydraulic Jacks]]        | 30,000 cp     | 150,000 cp    | 750,000 cp    | --            |
+| [[Immune System Booster]]  | 30,000 cp     | --            | --            | --            |
+| [[Integrated Grapple Gun]] | 25,000 cp     | --            | --            | --            |
+| [[Internal Battery]]       | --            | 175,000 cp    | 875,000 cp    | --            |
+| [[Jet Boosters]]           | --            | 175,000 cp    | 875,000 cp    | --            |
+| [[Laser Designator]]       | 25,000 cp     | --            | --            | --            |
+| [[Limbic Regulator]]       | 35,000 cp     | --            | 875,000 cp    | --            |
+| [[Muscle Reinforcement]]   | 35,000 cp     | --            | 875,000 cp    | --            |
+| [[Neural Burst]]           | --            | --            | --            | 5,000,000 cp  |
+| [[Platelet Factory]]       | 35,000 cp     | --            | 875,000 cp    | --            |
+| [[Sensory Enhancement]]    | 25,000 cp     | 125,000 cp    | 625,000 cp    | 3,125,000 cp  |
+| [[Smartgun Augment]]       | 15,000 cp     | --            | --            | --            |
+| [[Subdermal Plating]]      | 40,000 cp     | 200,000 cp    | 1,000,000 cp  | --            |
+| [[Suprathyroid]]           | --            | --            | --            | 5,000,000 cp  |
+| [[Tailored Pheromones]]    | 35,000 cp     | --            | 875,000 cp    | --            |
+| [[Warp Cortex]]            | --            | --            | 875,000 cp    | --            |
+| [[Wired Reflexes]]         | 35,000 cp     | --            | 875,000 cp    | --            |

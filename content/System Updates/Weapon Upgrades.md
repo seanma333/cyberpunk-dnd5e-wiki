@@ -29,6 +29,7 @@ A modification that requires a damage type (such as Arc Point, Mono-Edge, or Sie
 | :------------------------------------------ | :------------- | :--------------------------------------------------- |
 | [[#Arc Point\|Arc Point]]                   | 20,000 cp      | Melee weapon that deals piercing damage              |
 | [[#Ballistic Blade\|Ballistic Blade]]       | 15,000 cp      | Melee weapon with the heavy property                 |
+| [[#Boomerang\|Boomerang]]                   | 5,000 cp       | Weapon with the thrown property                      |
 | [[#Bullet Storm\|Bullet Storm]]             | 15,000 cp      | Firearm with the automatic property                  |
 | [[#Collapsible Frame\|Collapsible Frame]]   | 5,000 cp       | Melee weapon without the heavy property              |
 | [[#Deadeye Stabilizer\|Deadeye Stabilizer]] | 15,000 cp      | Any ranged weapon                                    |
@@ -37,7 +38,6 @@ A modification that requires a damage type (such as Arc Point, Mono-Edge, or Sie
 | [[#Kinetic Piston\|Kinetic Piston]]         | 15,000 cp      | Melee weapon                                         |
 | [[#Lightweight Design\|Lightweight Design]] | 3x weapon cost | Any weapon                                           |
 | [[#Mag-Sling\|Mag-Sling]]                   | 10,000 cp      | Sling                                                |
-| [[#Magnetic Recall\|Magnetic Recall]]       | 5,000 cp       | Weapon with the thrown property                      |
 | [[#Mana Capacitor\|Mana Capacitor]]         | 40,000 cp      | Non-magical weapon                                   |
 | [[#Mobile Shot\|Mobile Shot]]               | 15,000 cp      | Ranged weapon without the two-handed property        |
 | [[#Momentum Flywheel\|Momentum Flywheel]]   | 10,000 cp      | Melee weapon with the heavy property                 |
@@ -83,6 +83,13 @@ As an action, you can attach or detach a bayonet to your firearm. A firearm with
 As an action, you can attach or detach a bipod to your firearm. Its folding legs let you brace the weapon against the ground or a solid surface.
 
 If you haven't moved during this turn, you can use a bonus action to deploy the bipod against the ground or a solid surface next to you, such as a low wall or the hood of a car. Deploying the bipod reduces your speed to 0 until the end of the current turn. While the bipod is deployed, you ignore the weapon's heavy property and Strength requirement, being prone doesn't impose disadvantage on your attack rolls with the weapon, and the weapon counts as mounted for the purpose of the [[Weapons#Firearm Properties|Mounted]] property. The bipod folds up if you move, or are moved, out of the space where you deployed it.
+
+## Boomerang
+
+*Requirement: Weapon with the thrown property*  
+An electromagnetic tether links the weapon to a receiver worn on your wrist or palm, snapping it back to you like a boomerang.
+
+Immediately after you make a ranged attack by throwing this weapon, it flies back to your hand, provided you have a free hand to catch it. If you don't, it lands at your feet.
 
 ## Bullet Storm
 
@@ -148,13 +155,6 @@ A weapon with a modification that requires the heavy property, such as [[#Ballis
 Magnetic coils woven into the sling's pouch accelerate each bullet to lethal speeds as it's released.
 
 The sling's damage die becomes 1d8 instead of 1d4, and its range becomes 60/240 feet.
-
-## Magnetic Recall
-
-*Requirement: Weapon with the thrown property*  
-An electromagnetic tether links the weapon to a receiver worn on your wrist or palm.
-
-Immediately after you make a ranged attack by throwing this weapon, it flies back to your hand, provided you have a free hand to catch it. If you don't, it lands at your feet.
 
 ## Mana Capacitor
 

@@ -33,7 +33,7 @@ The lifestyles are, in order from cheapest to most expensive: **Wretched**, **Sq
 
 Lancers typically want to establish a **home base** within the city: a place that they can safely rest and recover without fear of being hunted or attacked. This can be set up by a fixer, or be within the territory of an allied faction upon agreement. The DM will tell the players when an area is fit to be a home base. Depending on the players' actions or how the story proceeds, an area may no longer be fit as a home base.
 
-When resting within a home base, the players can live up to one level above the average lifestyle of the district that home base is in. When resting outside their home base, the players can live up to the average lifestyle of the district.
+When resting within a home base, the players can live up to one level above the average lifestyle of the district that home base is in. When resting outside their home base, the players can live up to the average lifestyle of the district. Living away from a home base, such as in a hotel or a rented room, is also more expensive: **when resting outside their home base, the players pay twice the normal cost of their lifestyle.**
 
 ### Average Lifestyle Costs by District
 

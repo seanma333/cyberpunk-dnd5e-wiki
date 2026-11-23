@@ -37,6 +37,12 @@ Rank within the Bratva is demonstrated through **magical tattoos** — enchanted
 - **Boyevik** — Soldiers. Not full Vor, but proven and trusted.
 - **Shestyorka** — Associates and runners. The bottom of the hierarchy, often young, often desperate.
 
+## The Code & Marks of Standing
+
+The Bratva's code binds people across background and rank around a shared refusal to serve those who would own them. It grew from survival in the mines and gulags, and remains the measure by which a Vor's loyalty is judged. The code gives the Bratva a common identity, but it does not make every member equal in status or power.
+
+That standing is made visible in the magical tattoos carried by the Vor. Their ink records oaths, crimes, and allegiances in a form other members can read. The tattoos connect a person's place in the organization to the commitments they have made—and make those commitments difficult to hide or discard.
+
 ## Territory: The Coldworks
 
 The Rimewind Bratva's home in [[Rakdos District|Rakdos]] is the **Coldworks** — a neighborhood on the district's southeastern edge, where the neon thins out into concrete. The architecture here is brutalist and functional: thick walls, small windows, buildings that were built to last rather than to impress. No decorative signage. No wasted space. Everything looks like it was designed by someone who had never once trusted that comfort would last.

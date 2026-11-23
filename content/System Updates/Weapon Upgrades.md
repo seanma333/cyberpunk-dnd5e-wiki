@@ -18,10 +18,10 @@ A modification that requires a damage type (such as Arc Point, Mono-Edge, or Sie
 | :---------------------------------------- | :------- | :-------------------------------------------------------- |
 | [[#Bayonet\|Bayonet]]                     | 200 cp   | Firearm with the two-handed property                      |
 | [[#Bipod\|Bipod]]                         | 500 cp   | Firearm with the heavy property or a Strength requirement |
+| [[#Carry Strap\|Carry Strap]]             | 100 cp   | Any weapon                                                |
 | [[#Extended Magazine\|Extended Magazine]] | 1,000 cp | Firearm with a reload capacity of 5 or more               |
 | [[#Scope\|Scope]]                         | 200 cp   | Any ranged weapon                                         |
 | [[#Silencer\|Silencer]]                   | 2,000 cp | Firearm without the Scatter or Mounted property           |
-| [[#Sling\|Sling]]                         | 100 cp   | Any weapon                                                |
 
 ### Modifications
 
@@ -99,6 +99,11 @@ A firmware override disables the weapon's fire-rate limiter, letting it empty it
 As an action, if this weapon has more than half of its reload capacity remaining, you can empty its magazine in a cone in front of you. The cone's length is equal to half the weapon's normal range. Each creature in the cone must make a Dexterity saving throw (DC 8 + your proficiency bonus + the ability modifier you use for attack rolls with this weapon). A creature takes damage equal to twice the weapon's damage dice on a failed save, or half as much on a successful one. The weapon's magazine is then empty and must be reloaded. Bullet Storm isn't an attack, so effects that modify attack or damage rolls don't apply.
 
 Once you use Bullet Storm, you can't use it again until it recharges. At the start of each of your turns, roll a d6; on a 5 or 6, Bullet Storm recharges. It also recharges when you finish a short or long rest.
+
+## Carry Strap
+
+*Requirement: Any weapon*  
+As an action, you can attach or detach a carry strap to a weapon. When you drop the weapon, you can instead choose to have it hang from its strap on your body. Only one weapon can hang from a carry strap at once.
 
 ## Collapsible Frame
 
@@ -246,11 +251,6 @@ As an action, you can attach or detach a silencer to a firearm that does not hav
 
 *Requirement: Melee weapon or 20 pieces of ammunition*  
 The weapon or ammunition gains the silvered property. (PHB 148)
-
-## Sling
-
-*Requirement: Any weapon*  
-As an action, you can attach or detach a sling to a weapon. When you drop the weapon, you can instead choose to have it hang its sling on your body. Only one weapon can hang from a sling at once.
 
 ## Smartgun System
 

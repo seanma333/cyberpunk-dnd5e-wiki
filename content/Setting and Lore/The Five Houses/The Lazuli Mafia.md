@@ -30,6 +30,12 @@ The result is a family in perpetual, carefully managed tension. Capos are bound 
 - **Soldiers** — Made members, bound by oath. The oath has teeth; the nature of those teeth is a matter of rumor.
 - **Associates** — Non-members who work with the family regularly. A reliable path to becoming a Soldier, for those who want it.
 
+## Family Politics & Succession
+
+The Lazuli Mafia's hierarchy is also a family in constant negotiation. The capos are Lapis's children, and each must balance authority over their own operation with the knowledge that the Don's approval is the only reliable route to greater standing. Open conflict between siblings is forbidden; competition happens through influence, results, and private maneuvering.
+
+The vacant Sottocapo position keeps that competition unresolved. Lapis has not named an heir, and none of the capos can be certain what he is waiting to see. To outsiders, the family can look calm and settled. Inside, every favor and decision may be read as a sign of who is gaining the Don's confidence.
+
 ## Territory: Sapphire Row
 
 The Lazuli family's home territory is **Sapphire Row** — a single, immaculately maintained street that cuts through Rakdos like a relic from another era. Where the Strip runs on neon and noise, Sapphire Row is quiet, warm-lit, and old. The clubs here have no signs outside. You either know what they are or you don't belong.

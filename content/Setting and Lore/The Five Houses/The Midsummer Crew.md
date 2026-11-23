@@ -37,6 +37,12 @@ The Midsummer Crew operates with deliberately less formal hierarchy than the oth
 - **Associates** — A wide, loose network of gnomes, fey races, half-fey, and anyone operating under Midsummer protection. Not formal members — just people who are, as they say in the Briarpatch, *with us*.
 - **Runners** — Street-level operators, often young, often fey. Fast, hard to track, intimately familiar with the Briarpatch's geography.
 
+## Belonging & Mutual Aid
+
+The Midsummer Crew draws its strength from people who may never hold a formal rank. The Crew is Puck and his trusted inner circle; around them is a wider network of gnomes, Fey, half-Fey, and neighbors who are simply *with us*. That loose bond lets the Crew include people whom more rigid organizations might leave out.
+
+In the Briarpatch, belonging comes with practical support. The Crew acts as the neighborhood's de facto protection and responds to anti-Fey violence without waiting for Medani. Its influence rests on a community that sees Puck as a neighbor and the Crew as part of home, even while the organization remains a criminal House.
+
 ## Territory: The Briarpatch
 
 The Briarpatch sits at the northern edge of Rakdos where the district bleeds toward [[Gruul District|Gruul]] — cheap real estate, industrial blight, the kind of neighborhood that formed because nowhere else would have them. It should, by all rights, be a miserable place to live.

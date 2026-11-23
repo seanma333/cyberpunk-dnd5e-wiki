@@ -30,6 +30,12 @@ The Black Lotus Triad follows a strict hierarchical structure rooted in the trad
 - **49s** — Initiated members who have sworn the Triad's oaths. The Triad's rank and file, answering to the Red Pole, and the ones who'll come knocking.
 - **Blue Lanterns** — Uninitiated associates. Skilled operators — lancers, fixers, specialists — who work in the Triad's interests without formal membership. Protected while useful. Cut loose without ceremony when they are not.
 
+## Membership & Community Ties
+
+Joining the Triad as a 49 is a formal, ritualized commitment, distinct from working with the organization as a Blue Lantern. The difference matters: Blue Lanterns can be trusted with important work and receive protection while serving the Triad, but they remain outside its sworn membership.
+
+In Lantern Town, the Triad's authority is tied to its role in the community. It offers protection, resolves disputes, and provides support where residents feel the city will not. That relationship brings genuine security and assistance, while also making the neighborhood's independence difficult to separate from the Triad's control.
+
 ## Territory: Lantern Town
 
 The Black Lotus Triad's home is **Lantern Town**, a dense neighborhood in the western quarter of [[Rakdos District|Rakdos]] that functions as the cultural heart of Zeal City's Eastern immigrant community. Paper lanterns line the streets — red and gold by day, every color at night. The signs are in half a dozen Eastern scripts. The food is real, not synthetic. The temples are old.

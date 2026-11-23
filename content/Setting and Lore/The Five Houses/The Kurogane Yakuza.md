@@ -38,6 +38,12 @@ The Kurogane follows traditional Yakuza hierarchy, adapted from Seiryuu warrior-
 - **Shatei** — "Younger brothers." Full members, bound by oath of loyalty to the family.
 - **Kobun** — "Foster children." Associates and junior members still proving their worth.
 
+## Protocol & Neutral Ground
+
+The Kurogane makes its hierarchy visible through formality. Rank shapes who speaks for the family, and favors are treated as obligations with acknowledged weight. Meetings have structure; relationships are maintained through clear expectations rather than casual familiarity.
+
+The Koi Hotel extends that approach beyond the family. It is a luxury property and the neutral meeting place used by all five Houses to settle disputes without bloodshed. Its neutrality depends on the Kurogane's stewardship, giving the family a central role whenever the other Houses need to meet.
+
 ## Territory: The Gardens & The Koi Hotel
 
 The Kurogane's home territory in [[Rakdos District|Rakdos]] is **The Gardens** — a deliberate, curated neighborhood that stands apart from the surrounding district. Where Rakdos is loud and relentless, The Gardens is composed: manicured green spaces between buildings, stone lanterns lining the streets, architecture that references Seiryuu aesthetics without replicating them exactly. It is the most visually distinctive neighborhood in Rakdos, and unmistakably theirs.

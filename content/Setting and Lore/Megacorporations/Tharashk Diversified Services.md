@@ -40,5 +40,8 @@ TDS is led by **Magrim Torm**, a **half-orc veteran strategist** and the daughte
 ## Zeal City Presence
 Tharashk’s main offices and training facilities in **[[Zeal City]]** are located in the **[[Boros District]]**, which houses many of the city’s military and industrial operations. While its urban presence is minimal compared to other megacorps, Tharashk maintains **a constant flow of personnel and supplies** through its city hub, which also serves as a debriefing point for returning expeditions.
 
+## Reclamation and Its Costs
+Tharashk presents its expeditions as work that lets civilization expand into dangerous territory: securing routes, removing threats, and recovering useful materials. The same work can turn ruins into inventory and contested land into a contract. Its artifact division makes that tension especially clear, since relics may be sold intact or reduced to residuum. Tharashk’s practical value is real, but so is the question of who gets to decide what should be reclaimed and who benefits.
+
 ## Reputation
 Tharashk is known as the **megacorp that goes where others refuse**—a reputation that has earned them both respect and wariness. They are **essential to global logistics and expansion**, particularly as humanity pushes further into **dangerous ruins and reclamation zones**. At the same time, their **mercenary mindset** and willingness to **operate beyond traditional legal frameworks** make them controversial players in geopolitical circles.

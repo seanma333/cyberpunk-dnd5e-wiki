@@ -36,5 +36,8 @@ Thuranni’s **headquarters in [[Zeal City]]** are located in the **[[Dimir Dist
 ## Corporate Culture
 TMT fosters a **progressive, innovation-first environment**, frequently hiring **young talent, digital natives, and rogue coders** disillusioned with traditional corporate hierarchies. It embraces **open digital expression**, but has drawn criticism for the **opaque influence of its algorithms** and the **data monetization practices** embedded into its platforms.
 
+## The Digital Public Square
+Thuranni’s platforms make online life feel open, immediate, and participatory: users can publish, socialize, work, and build communities inside its ecosystem. Yet the spaces and the systems that organize them belong to the company. The same tools that give creators reach also let TMT shape visibility and profit from attention. This tension—between a lively public commons and privately controlled infrastructure—sits at the center of its promise and its critics’ concerns.
+
 ## Reputation
 Praised for its **visionary technology** and condemned for its **aggressive expansion tactics**, TMT walks a fine line between **liberating the digital future and monopolizing it**. It is beloved by the youth, feared by governments, and loathed by its rivals—especially Phiarlan Multimedia.

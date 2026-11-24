@@ -24,5 +24,8 @@ At the helm of the company is **Esravash Lyrandar**, a half-elf and direct desce
 ## Zeal City Operations
 Lyrandar’s major facilities in **[[Zeal City]]** are located in the **[[Izzet District]]**, an industrial and technological hub known for its experimental labs and heavy manufacturing infrastructure. The district hosts Lyrandar’s main **vehicle fabrication yards, logistics command centers**, and **orbital uplink terminals**.
 
+## From Shipping Lanes to Orbit
+Lyrandar’s history is a story of extending its routes: from ocean shipping to aircraft, then toward orbital operations. Each expansion carries its original business into a new frontier, connecting transport infrastructure with exploration and research. Skytower is the clearest expression of that ambition. The company’s challenge is to make its future-facing identity real while remaining a dependable part of the trade networks that built its power.
+
 ## Reputation & Market Influence
 Lyrandar Aerospace is seen as a vital enabler of global and intercontinental trade, as well as a pioneer of post-atmospheric infrastructure. Their blend of **engineering excellence**, **logistics mastery**, and **exploratory vision** positions them as both a practical necessity in the global economy and a symbol of humanity’s future beyond Ryse.

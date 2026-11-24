@@ -36,5 +36,8 @@ Jorasco also maintains a close relationship with **Zeal University**, funding ma
 ## Headquarters & Global Reach
 Jorasco's headquarters are located in the **[[Orzhov District]] of [[Zeal City]]**, a hub of wealth, power, and influence. From this command center, the corporation coordinates a global network of hospitals, biotech research centers, mobile clinics, and emergency response units. With operations in nearly every major city, Jorasco is deeply embedded in the infrastructure of global health.
 
+## Care, Access & Trust
+Jorasco asks the public to trust it with the body at its most vulnerable. Its blend of clinical medicine, magical healing, and research can deliver care unavailable elsewhere, while its subscription tiers decide how quickly and extensively that care arrives. The Rapid Response Unit makes this difference visible in a crisis. Jorasco’s reputation consequently rests on two truths at once: its work saves lives, and access to that work follows a price schedule.
+
 ## Reputation & Influence
 Jorasco Biotechnology is both **admired and criticized**—praised for its miraculous medical breakthroughs and life-saving interventions, but scrutinized for the monetization of care. Critics argue that tying emergency health access to income is unethical, while supporters claim the model funds innovation and ensures top-tier quality for those who can afford it.

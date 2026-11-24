@@ -38,5 +38,8 @@ As a **universal bank**, KBC offers:
 
 Its security division is the **gold standard** for vault protection, server encryption, and high-value asset transport. Some of the world’s most sensitive and dangerous items—both physical and digital—are held within KBC-secured facilities.
 
+## Trust, Neutrality & Oversight
+Kundarak’s business depends on clients believing that deposits, debts, and secrets will survive political upheaval. Its security services reinforce that promise, while its loans give the bank influence over the institutions it serves. The board accord among the thirteen megacorporations is meant to keep that influence balanced. Morrikan Irongate’s appointment and the Kundarak Clan’s succession dispute test whether the company can remain publicly neutral while its own legacy is contested.
+
 ## Reputation & Global Role
 KBC is often referred to as “**The Bank of the World**.” To many, it is a symbol of order and stability in a chaotic age. To others, it represents the hidden oligarchic forces controlling global affairs from behind polished walls and armored vaults. Its neutrality is both a shield and a sword, allowing it to exist above political strife—while still pulling strings behind the scenes.

@@ -24,6 +24,9 @@ Lawmages undergo a **multi-year training regimen** at a **secretive academy**, w
 ## Corporate Leadership
 Medani is led by **Taldor Winslow**, a half-elf and former Lawmage who rose through the company ranks after serving on several high-profile enforcement operations. Winslow is known for maintaining **strict operational protocols**, a **strong public image**, and a belief that **order must be bought before it can be maintained**. Under his leadership, Medani has expanded further into **predictive crime AI**, **magical surveillance**, and **corporate espionage countermeasures**.
 
+## Public Safety by Contract
+Medani’s officers enforce the rules set by the governments and districts that hire them. In Zeal City, separate district contracts mean the service can vary with local priorities, even when the uniform bears the same company name. This arrangement gives communities a way to fund and tailor security, but it also raises a basic question: when enforcement is contracted, who ultimately decides what order is for—the public, its government, or the client paying the bill?
+
 ## Reputation & Controversy
 Public opinion of Medani is highly polarized. Some view the company as an efficient and necessary arm of modern governance—especially in cities and nations that lack the funding or cohesion to maintain public safety on their own. Others see Medani as a **tool of systemic oppression**, beholden not to justice, but to **whoever pays their contract fee**.
 

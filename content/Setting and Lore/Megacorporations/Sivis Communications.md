@@ -40,5 +40,8 @@ Sivcom’s **tiered subscription system** is legendary—and divisive. Users are
 
 This stratification has **widened the digital divide** in many urban zones, making full internet access another measure of corporate hierarchy and privilege. Activists and hacker collectives frequently protest Sivcom's practices, but with **no serious competitor** offering comparable global coverage, these complaints rarely move the needle.
 
+## Connectivity as Leverage
+Sivis is difficult to avoid because its infrastructure carries so much of modern communication. That reach makes the company useful to individuals and essential to other megacorporations, but its tiered service turns access into a measure of purchasing power. The proposed interplanar network extends the same ambition beyond the familiar network. If Sivis succeeds, it could connect places no competitor can reach—and become even harder to do without.
+
 ## Reputation
 Sivcom is both **ubiquitous and unavoidable**—an omnipresent force in modern life. Users rely on it, resent it, and **cannot function without it**. Some view the company as a **necessary evil**, others as a **technological marvel**, and a few as **a dangerous monopoly with ambitions beyond reality**.

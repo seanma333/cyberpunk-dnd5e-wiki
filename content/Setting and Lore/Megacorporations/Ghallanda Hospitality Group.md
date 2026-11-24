@@ -23,5 +23,8 @@ Ghallanda's global headquarters are located in **[[Zeal City]]’s [[Orzhov Dist
 ## Leadership: Chervina Ghallanda
 The current CEO, **Chervina Ghallanda**, is the charismatic halfling granddaughter of the company’s founder, **Yoren Ghallanda**. Once a renowned celebrity and high-society icon, Chervina transitioned from the red carpet to the boardroom, bringing her media savvy and sharp business acumen to bear on the company’s continued growth. Under her leadership, Ghallanda has expanded into emerging markets and increased its presence in digital hospitality platforms and virtual tourism.
 
+## Comfort, Access & Status
+Ghallanda’s influence comes from deciding what comfort looks like and who can afford to enter it. Its hotels attach hospitality to a recognizable standard of service, while its development business can shape whole areas around housing, commerce, and leisure. A Ghallanda address can signal status; a Ghallanda contract can determine how a district grows. The company’s polished welcome therefore sits alongside a much harder form of power over land and access.
+
 ## Reputation & Influence
 Ghallanda Hospitality Group is often viewed as the soft power counterbalance to the more militarized megacorps. Its influence is felt not through weapons or surveillance, but through its control of where people live, work, and sleep. Whether hosting dignitaries, housing executives, or developing new city sectors, Ghallanda ensures luxury is always part of the equation.

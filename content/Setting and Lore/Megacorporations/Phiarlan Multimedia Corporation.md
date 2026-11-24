@@ -33,5 +33,8 @@ Thirty years ago, Elvinor had a **very public and highly contentious falling out
 
 Their feud is often portrayed in tabloids as a corporate family drama—but to insiders, it represents **two competing visions of media power**, and a looming **information cold war** between mother and son.
 
+## Access, Editorial Independence & Power
+Phiarlan’s journalism benefits from exceptional access and a reputation for fast, thorough reporting, while its entertainment holdings shape what audiences watch and talk about. Government partnerships complicate both roles: they can open doors and fund coverage, but they can also blur reporting with official messaging. Elvinor Phiarlan’s conflict with her son grew from competing ideas about editorial independence and corporate governance, and that family rift now plays out as a struggle over who gets to shape the public story.
+
 ## Reputation
 Phiarlan is seen by many as the **gold standard of media influence**—sophisticated, omnipresent, and always in-the-know. Others view it as a manipulative giant with too much control over what people see, hear, and believe. Regardless of public perception, **no one in the media world moves without considering Phiarlan’s shadow**.

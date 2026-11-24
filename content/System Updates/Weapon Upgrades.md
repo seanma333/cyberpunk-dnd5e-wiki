@@ -33,10 +33,10 @@ A modification that requires a damage type (such as Arc Point, Mono-Edge, or Sie
 | [[#Bullet Storm\|Bullet Storm]]             | 15,000 cp      | Firearm with the automatic property                  |
 | [[#Collapsible Frame\|Collapsible Frame]]   | 5,000 cp       | Melee weapon without the heavy property              |
 | [[#Deadeye Stabilizer\|Deadeye Stabilizer]] | 15,000 cp      | Any ranged weapon                                    |
-| [[#High Impact Shots\|High Impact Shots]]   | 2x weapon cost | Firearm with a Strength requirement                  |
+| [[#High Impact Shots\|High Impact Shots]]   | 15,000 cp      | Firearm with a Strength requirement                  |
 | [[#Hypodermic Feed\|Hypodermic Feed]]       | 10,000 cp      | Hand crossbow or blowgun                             |
 | [[#Kinetic Piston\|Kinetic Piston]]         | 15,000 cp      | Melee weapon                                         |
-| [[#Lightweight Design\|Lightweight Design]] | 3x weapon cost | Any weapon                                           |
+| [[#Lightweight Design\|Lightweight Design]] | 10,000 cp      | Any weapon                                           |
 | [[#Mag-Sling\|Mag-Sling]]                   | 10,000 cp      | Sling                                                |
 | [[#Mana Capacitor\|Mana Capacitor]]         | 40,000 cp      | Non-magical weapon                                   |
 | [[#Mobile Shot\|Mobile Shot]]               | 15,000 cp      | Ranged weapon without the two-handed property        |
@@ -49,11 +49,11 @@ A modification that requires a damage type (such as Arc Point, Mono-Edge, or Sie
 | [[#Recoil Hilt\|Recoil Hilt]]               | 20,000 cp      | Finesse melee weapon without the two-handed property |
 | [[#Siegetek\|Siegetek]]                     | 20,000 cp      | Melee weapon that deals bludgeoning damage           |
 | [[#Silvered\|Silvered]]                     | 10,000 cp      | Melee weapon or 20 pieces of ammunition              |
-| [[#Smartgun System\|Smartgun System]]       | 1x weapon cost | Any firearm                                          |
+| [[#Smartgun System\|Smartgun System]]       | 3,000 cp       | Any firearm                                          |
 | [[#Spellbreaker\|Spellbreaker]]             | 40,000 cp      | Non-magical weapon                                   |
 | [[#Thrust Assist\|Thrust Assist]]           | 15,000 cp      | Melee weapon                                         |
 | [[#Titanstring\|Titanstring]]               | 20,000 cp      | Shortbow or longbow                                  |
-| [[#Wide Sweep\|Wide Sweep]]                 | 1x weapon cost | Firearm with the Scatter property                    |
+| [[#Wide Sweep\|Wide Sweep]]                 | 15,000 cp      | Firearm with the Scatter property                    |
 
 ## Arc Point
 

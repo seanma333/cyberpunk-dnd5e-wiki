@@ -27,5 +27,8 @@ The company is currently led by **Darren Calder**, a human executive who gained 
 ## Controversy
 Despite its role in feeding much of the world’s population, Vadalis Consolidated is the subject of numerous ethical and legal disputes. Critics point to the company’s alleged use of force in acquiring its island territories, the environmental damage caused by factory farming, and its monopolistic control over food distribution in many regions. Still, its grip on the global food chain has proven unshakable, particularly in post-war urban environments where traditional farming is no longer viable.
 
+## Food as Infrastructure
+Vadalis operates where daily survival meets industrial scale. Synthetic meals and subterranean farms help feed dense urban populations in a world where conventional agriculture is difficult, while the arcology concentrates production, research, and company life in one place. That reliability gives Vadalis a central role in the city’s food supply. Its disputed land acquisitions and environmental costs make the company’s reach harder to separate from the question of who controls the resources communities depend on.
+
 ## Presence in Zeal City
 Vadalis’s operations in Zeal City are centered in the **Golgari District**, where the **Vadalis Arcology** serves as both headquarters and operational hub. The arcology’s subterranean levels contain some of the largest functioning underground farms on the continent, making it a key part of the city’s food infrastructure.

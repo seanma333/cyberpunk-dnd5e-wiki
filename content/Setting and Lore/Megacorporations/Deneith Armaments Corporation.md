@@ -26,5 +26,8 @@ At the helm of Deneith Armaments is **Talon Silverfang**, a dragonborn with a de
 ## Presence in Zeal City
 In **[[Zeal City]]**, Deneith maintains a stronghold in the **[[Boros District]]**, an area known for its militarized infrastructure and security operations. Here, the company operates advanced manufacturing plants and rigorous training academies for Armaknights and affiliated forces.
 
+## Deterrence as a Product
+Deneith sells both the equipment used to project force and, through the Armaknights, trained personnel to wield it. That combination makes the corporation more than an arms supplier: it can shape how governments and companies prepare for a threat, and what they consider a credible response. Supporters point to protection and stability; critics see a business whose fortunes rise with the demand for security.
+
 ## Reputation & Influence
 Feared by insurgents and respected by generals, Deneith Armaments Corporation is a symbol of unyielding power. Critics often accuse the company of escalating conflicts and profiting from perpetual war, but few deny its role in stabilizing volatile zones and protecting high-value interests. Where there is conflict, there is Deneith—armed, armored, and ready.

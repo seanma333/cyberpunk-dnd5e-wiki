@@ -32,5 +32,8 @@ Orien's closest competitor is **[[Lyrandar Aerospace]]**, with both megacorps vy
 ## Leadership
 Orien Enterprises is helmed by **Delilah Orien**, a human executive and the **grand-niece of the previous CEO**. Under her leadership, the company has embraced aggressive expansion into **automated freight**, **urban delivery infrastructure**, and **consumer-facing services**, without losing its industrial roots. Delilah is known for her no-nonsense leadership style and focus on resilience and adaptability—qualities that have kept Orien relevant in a rapidly evolving world.
 
+## The Routes That Keep the City Moving
+Orien’s power is built into the journey between places. Rail lines, the Zeal City Metro, freight services, and last-mile delivery connect its historic transport business to daily urban life. The network is most valuable where alternatives are scarce, which makes Orien dependable and difficult to replace. Its rivalry with Lyrandar is therefore about more than vehicles: it is a contest over which routes commerce and ordinary people will rely on.
+
 ## Reputation
 Orien is widely viewed as **dependable, grounded, and essential**, though often critiqued for its monopoly on overland routes in regions with limited transport options. Despite being less flashy than other megacorps, its reliability and logistics power make it **one of the most quietly influential players** on the global stage.

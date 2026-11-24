@@ -26,5 +26,8 @@ Starrin Cannith, the enigmatic and nearly mythic CEO, has helmed the company for
 ## Presence in Zeal City
 In [[Zeal City]], Cannith Industries maintains a strong corporate presence, primarily centered in the **[[Izzet District]]**, an area known for its industrial energy and engineering innovation. The company also operates state-of-the-art research facilities in the **[[Simic District]]**, focusing on the next generation of cybernetic and biomechanical enhancements.
 
+## Built Into Everyday Life
+Cannith’s work is easiest to notice when it fails: a vehicle that will not start, a prosthetic that cannot keep pace, or a machine whose parts have no supplier. Its components make the company part of daily life well beyond its own factories. The Warforged make that reach more complicated. Cannith helped create sapient people as military technology, and their place in society keeps the company’s celebrated engineering tied to an unresolved question of responsibility.
+
 ## Reputation & Influence
 Feared by its rivals and respected by engineers worldwide, Cannith Industries is both a symbol of technological progress and a reminder of corporate omnipresence. Its role in shaping both the battlefield and the body has made it indispensable to modern society—and potentially dangerous in equal measure.

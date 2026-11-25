@@ -25,6 +25,21 @@ Armor is the same as it is in D&D 5th Edition in terms of stats, but the names a
 | ***Shield*** |  |  |  |  |  |  |
 | Ballistic Shield | 1000 | +2 | - | - | 6 lbs | Shield |
 
+## Armor Grades
+
+Most armor sold on the street is standard grade. Higher-grade armor is built from advanced composites and precision-fitted plating, giving its wearer a bonus to AC in addition to the armor's normal AC. Armor grades are technology, not magic.
+
+| Grade     | AC Bonus | Additional Cost |
+| :-------- | :------- | :-------------- |
+| Standard  | --       | --              |
+| Military  | +1       | 150,000 cp      |
+| Spec-Ops  | +2       | 600,000 cp      |
+| Prototype | +3       | 2,400,000 cp    |
+
+- **Cost.** A higher-grade suit of armor costs its normal price plus the additional cost for its grade. For example, Military-grade Battle Armor costs 300,000 cp.
+- **Armor Only.** Grades apply to light, medium, and heavy armor. Ballistic shields don't come in higher grades.
+- **Availability.** Higher-grade armor is rarely sold openly. Finding a seller, especially for Spec-Ops or Prototype armor, is up to the DM.
+
 ## Armor Descriptions
 
 ### Light Armor
